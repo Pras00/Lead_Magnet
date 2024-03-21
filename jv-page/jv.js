@@ -1,3 +1,5 @@
+
+// Countdown
 const targetDate = new Date('2024-04-05T09:00:00-05:00').getTime();
 
 const countdown = setInterval(function() {
@@ -46,6 +48,8 @@ const countdown = setInterval(function() {
   }
 }, 1000);
 
+
+// Collapsible
 const collapsibles = document.querySelectorAll('.collapsible');
 
 collapsibles.forEach(collapsible => {
@@ -55,16 +59,25 @@ collapsibles.forEach(collapsible => {
     const pElement = document.querySelector('.p-class');
     const upDownImage = collapsible.querySelector(".up-down-image");
 
-    if (content.style.maxHeight){
-      content.style.maxHeight = null;
-      pElement.style.marginTop = "9rem"; // Setelah div content disembunyikan
-      upDownImage.style.transform = "rotate(0deg)"; // Image kembali seperti semula
-    } else {
+    if (!collapsible.classList.contains('active')) {
       content.style.maxHeight = content.scrollHeight + "px";
-      pElement.style.marginTop = "2.5rem"; // Setelah div content ditampilkan
-      upDownImage.style.transform = "rotate(180deg)"; // Image diputar 180 derajat secara vertikal
-    } 
+      pElement.style.marginTop = "2.5rem";
+      upDownImage.style.transform = "rotate(180deg)"; 
+    } else {
+      content.style.maxHeight = null;
+      pElement.style.marginTop = "9rem"; 
+      upDownImage.style.transform = "rotate(0deg)";
+    }
   });
+
+  // Menampilkan div content saat halaman dimuat
+  const content = collapsible.nextElementSibling;
+  const pElement = document.querySelector('.p-class');
+  const upDownImage = collapsible.querySelector(".up-down-image");
+  content.style.maxHeight = content.scrollHeight + "px";
+  pElement.style.marginTop = "2.5rem";
+  upDownImage.style.transform = "rotate(180deg)"; 
 });
+
 
 
