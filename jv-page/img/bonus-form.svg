@@ -1,0 +1,28 @@
+<svg width="913" height="810" viewBox="0 0 913 810" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M890 94.9586C890 85.9246 879.034 79.9897 870 79.9897V79.9897C847.909 79.9897 830 58.8009 830 32.6632V32.6632C830 21.3678 822.176 9 810.881 9H30C13.4315 9 0 22.4315 0 39V780C0 796.569 13.4315 810 30 810H860C876.569 810 890 796.569 890 780V94.9586Z" fill="url(#paint0_linear_332_4)"/>
+<g filter="url(#filter0_i_332_4)">
+<circle cx="877" cy="36" r="36" fill="#F4F4F4"/>
+</g>
+<path d="M888.334 36V50.1667H865.667V36" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M891.166 28.9165H862.833V35.9998H891.166V28.9165Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M877 50.1665V28.9165" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M877 28.9168H870.625C869.685 28.9168 868.785 28.5437 868.12 27.8795C867.456 27.2153 867.083 26.3145 867.083 25.3752C867.083 24.4359 867.456 23.535 868.12 22.8708C868.785 22.2066 869.685 21.8335 870.625 21.8335C875.583 21.8335 877 28.9168 877 28.9168Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M877 28.9168H883.375C884.314 28.9168 885.215 28.5437 885.879 27.8795C886.544 27.2153 886.917 26.3145 886.917 25.3752C886.917 24.4359 886.544 23.535 885.879 22.8708C885.215 22.2066 884.314 21.8335 883.375 21.8335C878.417 21.8335 877 28.9168 877 28.9168Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<defs>
+<filter id="filter0_i_332_4" x="841" y="0" width="76" height="76" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="4" dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow_332_4"/>
+</filter>
+<linearGradient id="paint0_linear_332_4" x1="-388" y1="-150" x2="1047.5" y2="631.5" gradientUnits="userSpaceOnUse">
+<stop offset="0.199432" stop-color="#FF83FF"/>
+<stop offset="0.621521" stop-color="#FEE8FE"/>
+<stop offset="1" stop-color="white"/>
+</linearGradient>
+</defs>
+</svg>
