@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="shortcut icon" href="img/logo-lm.png" type="image/x-icon">
     <script src="https://cdn.tailwindcss.com"></script>
-    <title>Sales Page - Lead Magnet</title>
+    <title>Sales Page - E-Book</title>
 </head>
 
 <body>
@@ -95,7 +95,7 @@
 
     <div class="bg-2 container-lg">
         <div class="flex flex-col items-center justify-center pt-16 text-white text-center">
-            <h1 class="inter-medium font-2-5rem w-3/4">
+            <h1 class="inter-medium font-2-5rem w-3/4 mb-8">
                 Make Your Social Media Stand Out with <br>
                 Quotes Buddy 2.0 Creative Content
             </h1>
@@ -336,14 +336,17 @@
         </div>
     </div>
 
-    <div class="bg-3 container-lg p-16">
+    <div class="bg-3 container-lg p-5 md:p-16">
         <div class="flex flex-row items-center text-center">
-            <img src="img/arrow-right.png" alt="" class="w-[20px] md:w-[4%]">
+            <img src="img/arrow-right.png" alt="" class="w-[40px] md:w-[4%]">
             <h1 class="inter-regular font-2rem ms-5">
                 Outdoor Gear Rental Shops
             </h1>
         </div>
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular my-12">
+            <div class="col-span-1">
+                <img src="img/BoxMockup 4.png" alt="">
+            </div>
             <div class="col-span-1 flex justify-center items-center">
                 <div class="grid grid-cols-1 gap-5">
                     <div class="bg-rental py-12 px-5 text-white">
@@ -357,256 +360,9 @@
                 </div>
             </div>
 
-            <div class="col-span-1">
-                <img src="img/BoxMockup 4.png" alt="">
-            </div>
         </div>
         <div class="flex justify-center">
-            <img class="w-[90%]" src="img/preview.png" alt="">
-        </div>
-    </div>
-
-
-    <div class="bg-5 container-lg p-16">
-        <div class="flex flex-row items-center text-center">
-            <img src="img/arrow-right.png" alt="" class="w-[20px] md:w-[4%]">
-            <h1 class="inter-regular font-2rem ms-5">
-                Outdoor Gear Rental Shops
-            </h1>
-        </div>
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular my-12">
-            <div class="col-span-1 flex justify-center items-center">
-                <div class="grid grid-cols-1 gap-5">
-                    <div class="bg-rental py-12 px-5 text-white">
-                        <h1 class="inter-medium font-1-5rem mb-5">Peningkatan Prospek</h1>
-                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
-                    </div>
-                    <div class="bg-rental-2 py-12 px-5 text-black">
-                        <h1 class="inter-medium font-1-5rem mb-5">Pengumpulan Data</h1>
-                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-span-1">
-                <img src="img/BoxMockup 4.png" alt="">
-            </div>
-        </div>
-        <div class="flex justify-center">
-            <img class="w-[90%]" src="img/preview.png" alt="">
-        </div>
-    </div>
-
-    <div class="bg-3 container-lg p-16">
-        <div class="flex flex-row items-center text-center">
-            <img src="img/arrow-right.png" alt="" class="w-[20px] md:w-[4%]">
-            <h1 class="inter-regular font-2rem ms-5">
-                Outdoor Gear Rental Shops
-            </h1>
-        </div>
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular my-12">
-            <div class="col-span-1 flex justify-center items-center">
-                <div class="grid grid-cols-1 gap-5">
-                    <div class="bg-rental py-12 px-5 text-white">
-                        <h1 class="inter-medium font-1-5rem mb-5">Peningkatan Prospek</h1>
-                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
-                    </div>
-                    <div class="bg-rental-2 py-12 px-5 text-black">
-                        <h1 class="inter-medium font-1-5rem mb-5">Pengumpulan Data</h1>
-                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-span-1">
-                <img src="img/BoxMockup 4.png" alt="">
-            </div>
-        </div>
-        <div class="flex justify-center">
-            <img class="w-[90%]" src="img/preview.png" alt="">
-        </div>
-    </div>
-
-
-    <div class="bg-5 container-lg p-16">
-        <div class="flex flex-row items-center text-center">
-            <img src="img/arrow-right.png" alt="" class="w-[20px] md:w-[4%]">
-            <h1 class="inter-regular font-2rem ms-5">
-                Outdoor Gear Rental Shops
-            </h1>
-        </div>
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular my-12">
-            <div class="col-span-1 flex justify-center items-center">
-                <div class="grid grid-cols-1 gap-5">
-                    <div class="bg-rental py-12 px-5 text-white">
-                        <h1 class="inter-medium font-1-5rem mb-5">Peningkatan Prospek</h1>
-                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
-                    </div>
-                    <div class="bg-rental-2 py-12 px-5 text-black">
-                        <h1 class="inter-medium font-1-5rem mb-5">Pengumpulan Data</h1>
-                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-span-1">
-                <img src="img/BoxMockup 4.png" alt="">
-            </div>
-        </div>
-        <div class="flex justify-center">
-            <img class="w-[90%]" src="img/preview.png" alt="">
-        </div>
-    </div>
-
-    <div class="bg-3 container-lg p-16">
-        <div class="flex flex-row items-center text-center">
-            <img src="img/arrow-right.png" alt="" class="w-[20px] md:w-[4%]">
-            <h1 class="inter-regular font-2rem ms-5">
-                Outdoor Gear Rental Shops
-            </h1>
-        </div>
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular my-12">
-            <div class="col-span-1 flex justify-center items-center">
-                <div class="grid grid-cols-1 gap-5">
-                    <div class="bg-rental py-12 px-5 text-white">
-                        <h1 class="inter-medium font-1-5rem mb-5">Peningkatan Prospek</h1>
-                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
-                    </div>
-                    <div class="bg-rental-2 py-12 px-5 text-black">
-                        <h1 class="inter-medium font-1-5rem mb-5">Pengumpulan Data</h1>
-                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-span-1">
-                <img src="img/BoxMockup 4.png" alt="">
-            </div>
-        </div>
-        <div class="flex justify-center">
-            <img class="w-[90%]" src="img/preview.png" alt="">
-        </div>
-    </div>
-
-
-    <div class="bg-5 container-lg p-16">
-        <div class="flex flex-row items-center text-center">
-            <img src="img/arrow-right.png" alt="" class="w-[20px] md:w-[4%]">
-            <h1 class="inter-regular font-2rem ms-5">
-                Outdoor Gear Rental Shops
-            </h1>
-        </div>
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular my-12">
-            <div class="col-span-1 flex justify-center items-center">
-                <div class="grid grid-cols-1 gap-5">
-                    <div class="bg-rental py-12 px-5 text-white">
-                        <h1 class="inter-medium font-1-5rem mb-5">Peningkatan Prospek</h1>
-                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
-                    </div>
-                    <div class="bg-rental-2 py-12 px-5 text-black">
-                        <h1 class="inter-medium font-1-5rem mb-5">Pengumpulan Data</h1>
-                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-span-1">
-                <img src="img/BoxMockup 4.png" alt="">
-            </div>
-        </div>
-        <div class="flex justify-center">
-            <img class="w-[90%]" src="img/preview.png" alt="">
-        </div>
-    </div>
-
-    <div class="bg-3 container-lg p-16">
-        <div class="flex flex-row items-center text-center">
-            <img src="img/arrow-right.png" alt="" class="w-[20px] md:w-[4%]">
-            <h1 class="inter-regular font-2rem ms-5">
-                Outdoor Gear Rental Shops
-            </h1>
-        </div>
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular my-12">
-            <div class="col-span-1 flex justify-center items-center">
-                <div class="grid grid-cols-1 gap-5">
-                    <div class="bg-rental py-12 px-5 text-white">
-                        <h1 class="inter-medium font-1-5rem mb-5">Peningkatan Prospek</h1>
-                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
-                    </div>
-                    <div class="bg-rental-2 py-12 px-5 text-black">
-                        <h1 class="inter-medium font-1-5rem mb-5">Pengumpulan Data</h1>
-                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-span-1">
-                <img src="img/BoxMockup 4.png" alt="">
-            </div>
-        </div>
-        <div class="flex justify-center">
-            <img class="w-[90%]" src="img/preview.png" alt="">
-        </div>
-    </div>
-
-
-    <div class="bg-5 container-lg p-16">
-        <div class="flex flex-row items-center text-center">
-            <img src="img/arrow-right.png" alt="" class="w-[20px] md:w-[4%]">
-            <h1 class="inter-regular font-2rem ms-5">
-                Outdoor Gear Rental Shops
-            </h1>
-        </div>
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular my-12">
-            <div class="col-span-1 flex justify-center items-center">
-                <div class="grid grid-cols-1 gap-5">
-                    <div class="bg-rental py-12 px-5 text-white">
-                        <h1 class="inter-medium font-1-5rem mb-5">Peningkatan Prospek</h1>
-                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
-                    </div>
-                    <div class="bg-rental-2 py-12 px-5 text-black">
-                        <h1 class="inter-medium font-1-5rem mb-5">Pengumpulan Data</h1>
-                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-span-1">
-                <img src="img/BoxMockup 4.png" alt="">
-            </div>
-        </div>
-        <div class="flex justify-center">
-            <img class="w-[90%]" src="img/preview.png" alt="">
-        </div>
-    </div>
-
-    <div class="bg-3 container-lg p-16">
-        <div class="flex flex-row items-center text-center">
-            <img src="img/arrow-right.png" alt="" class="w-[20px] md:w-[4%]">
-            <h1 class="inter-regular font-2rem ms-5">
-                Outdoor Gear Rental Shops
-            </h1>
-        </div>
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular my-12">
-            <div class="col-span-1 flex justify-center items-center">
-                <div class="grid grid-cols-1 gap-5">
-                    <div class="bg-rental py-12 px-5 text-white">
-                        <h1 class="inter-medium font-1-5rem mb-5">Peningkatan Prospek</h1>
-                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
-                    </div>
-                    <div class="bg-rental-2 py-12 px-5 text-black">
-                        <h1 class="inter-medium font-1-5rem mb-5">Pengumpulan Data</h1>
-                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-span-1">
-                <img src="img/BoxMockup 4.png" alt="">
-            </div>
-        </div>
-        <div class="flex justify-center">
-            <img class="w-[90%]" src="img/preview.png" alt="">
+            <img class="w-[100%] md:w-[90%]" src="img/preview.png" alt="">
         </div>
     </div>
 
@@ -616,26 +372,6 @@
                 Grant Full regular To <span class="inter-medium">"Lead Magnet"</span> Today! <br> For One Time Investment Only! <br>
                 <span class="font-1-2rem">And Start Making Money by Getting The Commercial & PLR License</span>
             </h1>
-
-            <!-- <div class="grid grid-cols-4 grid-rows-1 gap-4 my-12">
-                <div class="text-center text-white">
-                    <div class="days inter-extrabold text-4xl"></div>
-                    <div class="inter-bold">Days</div>
-                </div>
-                :
-                <div class="text-center text-white">
-                    <div class="hours inter-extrabold text-4xl"></div>
-                    <div class="inter-bold ">Hours</div>
-                </div>
-                <div class="text-center text-white">
-                    <div class="minutes inter-extrabold text-4xl"></div>
-                    <div class="inter-bold">Minutes</div>
-                </div>
-                <div class="text-center text-white">
-                    <div class="seconds inter-extrabold text-orange-600 text-4xl"></div>
-                    <div class="inter-bold text-orange-600">Seconds</div>
-                </div>
-            </div> -->
 
             <div class="countdown flex justify-center items-start gap-4 text-white">
                 <div class="flex flex-col justify-center items-center">
@@ -682,10 +418,10 @@
                     <p>SECONDS</p>
                 </div>
             </div>
-            <div class="flex justify-center items-center w-full my-24">
-                <a class="flex justify-between items-center w-[292px] bg-[#352CE8] px-2 py-2 rounded-[50px]" href="#">
-                    <h3 class="text-white text-[2rem] pl-6">Get It NOW</h3>
-                    <img width="20%" src="./img/arrow-get.png" alt="img">
+            <div class="flex justify-center items-center w-full my-24 px-5">
+                <a class="flex justify-between items-center w-[492px] bg-[#FFC90C] px-2 py-2 rounded-[50px]" href="#">
+                    <h3 class="text-black font-2rem pl-6">Get Instant Access Now</h3>
+                    <img width="w-[5%] md:w-[15%]" src="./img/icon-btn.png" alt="img">
                 </a>
             </div>
         </div>
@@ -1066,7 +802,7 @@
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 my-16 mx-4 md:mx-8 lg:mx-16">
 
                 <?php foreach ($firstHalf as $faq) : ?>
-                    <details class="group py-1 text-lg">
+                    <details class="group py-1 text-lg title-faq">
                         <summary class="flex cursor-pointer flex-row items-center justify-between py-1 font-semibold text-black bg-white p-8 py-3 rounded-t-lg">
                             <?php echo $faq["question"]; ?>
                             <svg class="h-6 w-6 rotate-0 transform text-black group-open:rotate-180" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">

@@ -60,6 +60,10 @@
         font-size: 1.5rem;
     }
 
+    .font-0-8rem {
+        font-size: 0.9rem;
+    }
+
     .font-1rem {
         font-size: 1rem;
     }
@@ -88,9 +92,6 @@
         width: 90%;
     }
 
-    #guarantee {
-        width: 70%;
-    }
 
 }
 
@@ -98,7 +99,7 @@
 
     /*Laptop*/
     .font-3rem {
-        font-size: 3rem;    
+        font-size: 3rem;
     }
 
     .font-2-5rem {
@@ -107,6 +108,10 @@
 
     .font-2rem {
         font-size: 2rem;
+    }
+
+    .font-0-8rem {
+        font-size: 0.8rem;
     }
 
     .font-1rem {
@@ -137,8 +142,55 @@
         width: 50%;
     }
 
-    #guarantee {
-        width: 30vw;
-    }
+}
 
+.bg-1 {
+    background-image:
+        linear-gradient(to right, rgba(53, 44, 232, 0.8), rgba(53, 44, 232, 0.8)),
+        url(../img/bg-1.png);
+}
+
+.bg-2 {
+    background-image: url(../img/bg-2.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-3 {
+    background-image:
+        linear-gradient( rgba(255, 255, 255, 0.3), rgba(53, 44, 232, 0.8),  rgba(30, 25, 130, 1)),
+        url(../img/bg-3.png);
+
+}
+
+.bg-4 {
+    background-image: url(../img/bg-3.png);
+}
+
+.bg-card {
+    background-image: url(../img/bg-card.png);
+    background-size: cover;
+}
+
+.bg-payment {
+    background-image: url(../img/bg-payment.png);
+    background-size: cover;
+    width: 100%;
+}
+
+.bg-payment-2 {
+    background-image: url(../img/bg-payment-2.png);
+    background-size: cover;
+    width: 100%;
+}
+
+.bg-rental {
+    background-image: url(../img/bg-rental.png);
+    background-size: cover;
+}
+
+.bg-rental-2 {
+    background-image: url(../img/bg-rental-2.png);
 }

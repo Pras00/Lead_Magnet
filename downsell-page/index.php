@@ -7,36 +7,38 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="css/style.css">
     <script src="https://cdn.tailwindcss.com"></script>
-    <title>Upsell Page - E-Book</title>
+    <title>Downsell Page - E-Book</title>
 </head>
 
 <body>
-    <div class="container-lg bg-1">
+    <div class="container-lg bg-pink">
         <div class="flex flex-col items-center justify-center h-screen px-5">
-            <div class="border-0 bg-white rounded-2xl px-4 md:px-6 lg:px-8 py-5 w-full md:w-[40%] h-[60%] md:h-[90%] flex flex-col items-center justify-center text-center">
-                <div class="flex flex-row items-center justify-center">
-                    <h3 class="inter-bold font-1-5rem">
-                        Your Purchase Success!
-                    </h3>
-                    <img class="w-[5%] md:w-[10%]" src="img/checklist.png" alt="">
+            <div class="border-0 bg-white drop-shadow-lg rounded-2xl px-4 md:px-6 lg:px-8 w-full md:w-[80%] h-[60%] md:h-[70%] flex flex-col items-center justify-center text-center md:text-start">
+                <div class="flex flex-col md:flex-row items-center justify-center mb-5">
+                    <img class="w-[75%] md:w-[40%] mr-0 md:mr-8 mb-5 md:mb-0" src="img/ds.png" alt="">
+                    <div>
+                        <h3 class="inter-bold font-2-5rem mb-5">
+                            Wait! One last Change..
+                        </h3>
+                        <h5 class="inter-medium font-1-5rem">
+                            After this, You Won't See this Offer Again. So Read Every Word dan Decide on this Page Carefully! <br><br>
+                            Make sure to read every word carefully as this offer for Quotes Buddy 2.0 won't be available again after this.
+                        </h5>
+                    </div>
                 </div>
 
-                <img class="img my-5" src="img/thanks.png" alt="">
-
-                <h5 class="inter-medium font-1rem">
-                    Continue your purchase by scrolling down
-                    to review the products you've selected.
-                </h5>
-                <img class="w-[5%] md:w-[8%] mt-3" src="img/arrow-down.png" alt="">
+                <div class="flex items-center justify-center mt-3">
+                    <img class="w-[5%] md:w-[45%] mr-3" src="img/arrow-down.png" alt="">
+                </div>
             </div>
+
         </div>
     </div>
 
     <div class="container-lg bg-2">
         <div class="flex flex-col items-center justify-center text-center p-3 py-16">
             <h1 class="inter-regular font-3rem mt-0 md:mt-12">
-                Upgrade Your Package for <span class="text-[#352CE8]">Lead Magnet</span> and <br>
-                Receive an Exclusive Commercial License with <br> Additional Content!
+                Upgrade to the Platinum Package and Get an Additional $10.00 Off for the Entire <span class="text-[#352CE8]">Lead Magnet</span> Package
             </h1>
             <h3 class="inter-regular font-1-5rem my-12">
                 While you currently possess the
@@ -332,8 +334,8 @@
         </div>
     </div>
 
-    <div class="container-lg bg-3 drop-shadow-lg rounded-b-2xl">
-        <div class="flex flex-col items-center justify-center py-12 text-center text-white">
+    <div class="container-lg bg-pink drop-shadow-lg rounded-b-2xl">
+        <div class="flex flex-col items-center justify-center py-12 text-center">
             <h1 class="inter-regular font-2-5rem w-3/4">
                 Exclusive for new customers only! </h1>
             <h1 class="inter-regular font-1-5rem">Explore our new quote templates below.</h1>
@@ -372,9 +374,9 @@
     </div>
 
 
-    <div class="container-lg bg-1">
+    <div class="container-lg bg-pink">
         <div class="flex flex-col items-center justify-center px-5">
-            <div class="border-0 bg-white rounded-2xl m-12 md:m-24 px-4 md:px-6 lg:px-8 py-8 md:py-16 w-full md:w-[70%] flex flex-col items-center justify-center text-center inter-regular">
+            <div class="border-0 bg-white drop-shadow-lg rounded-2xl m-12 md:m-24 px-4 md:px-6 lg:px-8 py-8 md:py-16 w-full md:w-[70%] flex flex-col items-center justify-center text-center inter-regular">
                 <h3 class="font-2-5rem">
                     LIMITED TIME OFFER!!!
                 </h3>

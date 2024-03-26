@@ -1,14 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
 
-.inter-light {
-    font-family: "Inter", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 300;
-    font-style: normal;
-    font-variation-settings:
-        "slnt"0;
-}
-
 .inter-regular {
     font-family: "Inter", sans-serif;
     font-optical-sizing: auto;
@@ -97,17 +88,10 @@
         width: 100%;
     }
 
-    .img2 {
-        width: 80%;
-    }
-
     #btn-payment {
         width: 90%;
     }
 
-    .bg-rental-2 {
-        background-size: cover;
-    }
 
 }
 
@@ -126,12 +110,12 @@
         font-size: 2rem;
     }
 
-    .font-1rem {
-        font-size: 1rem;
-    }
-
     .font-0-8rem {
         font-size: 0.8rem;
+    }
+
+    .font-1rem {
+        font-size: 1rem;
     }
 
     .font-1-2rem {
@@ -154,65 +138,59 @@
         width: 80%;
     }
 
-    .img2 {
-        width: 40%;
-    }
-
     #btn-payment {
-        width: 35%;
-    }
-
-    .bg-rental-2 {
-        background-size: contain;
-        background-repeat: no-repeat;
+        width: 50%;
     }
 
 }
 
 .bg-1 {
-    background-image: url(../img/Rectangle\ 1.png);
+    background-image:
+        linear-gradient(to right, rgba(53, 44, 232, 0.8), rgba(53, 44, 232, 0.8)),
+        url(../img/bg-1.png);
+}
+
+.bg-2 {
+    background-image: url(../img/bg-2.png);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
-.bg-2 {
-    background-image:
-        linear-gradient(to right, rgba(30, 25, 130, 1), rgba(53, 44, 232, 1), rgba(255, 255, 255, 0)),
-        url(../img/bg-2.png);
-}
-
 .bg-3 {
-    background-image: linear-gradient(to left, rgba(53, 44, 232, 1), rgba(255, 255, 255, 0.3));
+    background-image:
+        linear-gradient(rgba(255, 255, 255, 0.3), rgba(53, 44, 232, 0.8), rgba(30, 25, 130, 1)),
+        url(../img/bg-3.png);
+
 }
 
 .bg-4 {
-    background-image: linear-gradient(to right, rgba(255, 128, 255, 1), rgba(255, 192, 255, 1), rgba(255, 255, 255, 1));
-}
-
-.bg-5 {
     background-image: url(../img/bg-3.png);
 }
 
-.bg-step-1 {
-    background-image: url(../img/bg-step.png);
+.bg-pink {
+    background-image:
+        linear-gradient(to right, rgba(255, 255, 255, 0.5), rgba(255, 211, 255, 1)),
+        url(../img/bg-pink.png);
+}
+
+
+.bg-card {
+    background-image: url(../img/bg-card.png);
     background-size: cover;
 }
 
-.bg-step-2 {
-    background-image: url(../img/bg-step-2.png);
+.bg-payment {
+    background-image: url(../img/bg-payment.png);
     background-size: cover;
+    width: 100%;
 }
 
-.bg-step-3 {
-    background-image: url(../img/bg-step-3.png);
+.bg-payment-2 {
+    background-image: url(../img/bg-payment-2.png);
     background-size: cover;
-}
-
-.bg-step-4 {
-    background-image: url(../img/bg-step-4.png);
-    background-size: cover;
+    width: 100%;
 }
 
 .bg-rental {
@@ -222,14 +200,4 @@
 
 .bg-rental-2 {
     background-image: url(../img/bg-rental-2.png);
-}
-
-.bg-card {
-    background-image: url(../img/bg-card.png);
-    background-size: cover;
-}
-
-.title-faq[open] summary {
-    background-color: #352CE8; 
-    color: white;
 }
