@@ -19,3 +19,13 @@ body {
 .up-down-image {
   transition: 0.3s ease-out;
 }
+
+.burger {
+  display: none;
+  transition: 0.3s ease-out;
+}
+
+.show {
+  display: flex;
+  transition: 0.3s ease-out;
+}

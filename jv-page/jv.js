@@ -80,4 +80,11 @@ collapsibles.forEach(collapsible => {
 });
 
 
+function myFunction(x) {
+  x.classList.toggle("change");
+  const navBurger = document.querySelector(".burger")
+  navBurger.classList.toggle("show");
+}
+
+
 

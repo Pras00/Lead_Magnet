@@ -13,26 +13,53 @@
 </head>
 <body class="bg-[url('./img/bg.png')] bg-center bg-cover bg-no-repeat bg-fixed">
   <!-- Navbar -->
-  <section class="bg-[#352CE8] flex justify-between items-center py-3 mt-8 mx-5 rounded-[50px] sticky top-2 z-10">
-    <div class="ml-12">
-      <img width="18%" src="./img/logo.png" alt="logo">
-    </div>
-    <div class="flex justify-center items-center gap-8 bg-white py-4 px-5 rounded-[30px] mr-4">
-      <a href="#" class="flex justify-center items-center gap-1 rounded-[30px]">
-        <p class="font-medium">contest</p>
-        <svg class="text-[#433AE9]" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-send" viewBox="0 0 16 16">
+  <section class="bg-[#352CE8] min-[768px]:py-3 min-[320px]:py-5 mt-8 mx-5 rounded-[50px] sticky top-2 z-10">
+    <nav class="flex justify-between items-center">
+      <div class="ml-12">
+        <img width="18%" src="./img/logo.png" alt="logo">
+      </div>
+      <div class="min-[768px]:flex min-[320px]:hidden justify-evenly items-center bg-white w-[38rem] py-4 rounded-[30px] mr-4">
+        <a href="#" class="flex justify-center items-center gap-1 rounded-[30px]">
+          <p class="font-medium">contest</p>
+          <svg class="text-[#433AE9]" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-send" viewBox="0 0 16 16">
+            <path d="M15.854.146a.5.5 0 0 1 .11.54l-5.819 14.547a.75.75 0 0 1-1.329.124l-3.178-4.995L.643 7.184a.75.75 0 0 1 .124-1.33L15.314.037a.5.5 0 0 1 .54.11ZM6.636 10.07l2.761 4.338L14.13 2.576zm6.787-8.201L1.591 6.602l4.339 2.76z"/>
+          </svg>
+        </a>
+        <a href="#" class="flex justify-center items-center gap-1 rounded-[30px]">
+          <p class="font-medium">Affiliate Link</p>
+          <svg class="text-[#433AE9]" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-send" viewBox="0 0 16 16">
+            <path d="M15.854.146a.5.5 0 0 1 .11.54l-5.819 14.547a.75.75 0 0 1-1.329.124l-3.178-4.995L.643 7.184a.75.75 0 0 1 .124-1.33L15.314.037a.5.5 0 0 1 .54.11ZM6.636 10.07l2.761 4.338L14.13 2.576zm6.787-8.201L1.591 6.602l4.339 2.76z"/>
+          </svg>
+        </a>
+        <a href="#" class="flex justify-center items-center gap-1 rounded-[30px]">
+          <p class="font-medium">Promotion Material</p>
+          <svg class="text-[#433AE9]" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-send" viewBox="0 0 16 16">
+            <path d="M15.854.146a.5.5 0 0 1 .11.54l-5.819 14.547a.75.75 0 0 1-1.329.124l-3.178-4.995L.643 7.184a.75.75 0 0 1 .124-1.33L15.314.037a.5.5 0 0 1 .54.11ZM6.636 10.07l2.761 4.338L14.13 2.576zm6.787-8.201L1.591 6.602l4.339 2.76z"/>
+          </svg>
+        </a>
+      </div>
+      <div class="container min-[768px]:hidden min-[320px]:flex flex-col items-end mr-10 mt-1 cursor-pointer" onclick="myFunction(this)">
+        <div class="bar1 w-9 h-1 bg-white mb-1 rounded-[20px]"></div>
+        <div class="bar2 w-9 h-1 bg-white mb-1 rounded-[20px]"></div>
+        <div class="bar3 w-9 h-1 bg-white mb-1 rounded-[20px]"></div>
+      </div>
+    </nav>
+    <div class="burger flex-col justify-center items-end mr-10 mt-5 gap-3">
+      <a href="#" class="flex justify-center items-center gap-2 rounded-[30px]">
+        <p class="font-medium text-white">contest</p>
+        <svg class="text-white" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-send" viewBox="0 0 16 16">
           <path d="M15.854.146a.5.5 0 0 1 .11.54l-5.819 14.547a.75.75 0 0 1-1.329.124l-3.178-4.995L.643 7.184a.75.75 0 0 1 .124-1.33L15.314.037a.5.5 0 0 1 .54.11ZM6.636 10.07l2.761 4.338L14.13 2.576zm6.787-8.201L1.591 6.602l4.339 2.76z"/>
         </svg>
       </a>
-      <a href="#" class="flex justify-center items-center gap-1 rounded-[30px]">
-        <p class="font-medium">Affiliate Link</p>
-        <svg class="text-[#433AE9]" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-send" viewBox="0 0 16 16">
+      <a href="#" class="flex justify-center items-center gap-2 rounded-[30px]">
+        <p class="font-medium text-white">Affiliate Link</p>
+        <svg class="text-white" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-send" viewBox="0 0 16 16">
           <path d="M15.854.146a.5.5 0 0 1 .11.54l-5.819 14.547a.75.75 0 0 1-1.329.124l-3.178-4.995L.643 7.184a.75.75 0 0 1 .124-1.33L15.314.037a.5.5 0 0 1 .54.11ZM6.636 10.07l2.761 4.338L14.13 2.576zm6.787-8.201L1.591 6.602l4.339 2.76z"/>
         </svg>
       </a>
-      <a href="#" class="flex justify-center items-center gap-1 rounded-[30px]">
-        <p class="font-medium">Promotion Material</p>
-        <svg class="text-[#433AE9]" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-send" viewBox="0 0 16 16">
+      <a href="#" class="flex justify-center items-center gap-2 rounded-[30px]">
+        <p class="font-medium text-white">Promotion Material</p>
+        <svg class="text-white" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-send" viewBox="0 0 16 16">
           <path d="M15.854.146a.5.5 0 0 1 .11.54l-5.819 14.547a.75.75 0 0 1-1.329.124l-3.178-4.995L.643 7.184a.75.75 0 0 1 .124-1.33L15.314.037a.5.5 0 0 1 .54.11ZM6.636 10.07l2.761 4.338L14.13 2.576zm6.787-8.201L1.591 6.602l4.339 2.76z"/>
         </svg>
       </a>
@@ -41,23 +68,23 @@
 
   <!-- Hero -->
   <section class="flex flex-col justify-center items-center">
-    <div class="w-[80%]">
+    <div class="min-[768px]:w-[80%] min-[320px]:w-[90%]">
       <div class="flex justify-center items-center my-10">
-        <img width="80%" src="./img/mockup.png" alt="mockup">
+        <img class="min-[768px]:w-[80%] min-[576px]:w-[90%] min-[320px]:w-[100%]" src="./img/mockup.png" alt="mockup">
       </div>
       <div class="text-center">
-        <h1 class="text-[3rem] leading-[4rem] font-semibold">Dapatkan Lebih  Banyak Pelanggan dan Kembangkan Bisnis Anda Dengan Email Marketing.</h1>
-        <p class="text-[1.5rem] font-light leading-[2.5rem] text-[#636363] mt-8">Dengan menggabungkan lead magnet dengan strategi pemasaran digital yang baik, Anda dapat mencapai tujuan pemasaran Anda dengan lebih efektif dan efisien.</p>
+        <h1 class="min-[768px]:text-[3rem] min-[320px]:text-[2.25rem] min-[768px]:leading-[4rem] font-semibold">Dapatkan Lebih  Banyak Pelanggan dan Kembangkan Bisnis Anda Dengan Email Marketing.</h1>
+        <p class="min-[768px]:text-[1.5rem] min-[320px]:text-[1.15rem] font-light min-[768px]:leading-[2.5rem] min-[320px]:leading-[2rem] text-[#636363] mt-8">Dengan menggabungkan lead magnet dengan strategi pemasaran digital yang baik, Anda dapat mencapai tujuan pemasaran Anda dengan lebih efektif dan efisien.</p>
       </div>
     </div>
-    <div class="flex justify-center items-center my-20 w-full">
-      <img width="60%" src="./img/start-end.png" alt="start-end date">
+    <div class="flex justify-center items-center min-[992px]:my-20 min-[768px]:mt-10 min-[320px]:mt-10 w-full">
+      <img class="min-[992px]:w-[50rem] min-[768px]:w-[40rem] min-[320px]:w-[90%]" src="./img/start-end.png" alt="start-end date">
     </div>
   </section>
 
   <!-- Countdown -->
-  <section class="flex flex-col justify-center items-center">
-    <h3 class="text-[2rem] font-light text-center">Going Live - Saturday, 10th March 2024, 09:00 AM EST</h3>
+  <section class="flex flex-col justify-center items-center min-[992px]:scale-100 min-[768px]:scale-90 min-[768px]:my-0 min-[480px]:scale-[0.55] min-[480px]:-my-36">
+    <h3 class="text-[2rem] font-light text-center">Going Live - Saturday, 10th March 2024, 09:00 AM EST</h3>
     <div class="countdown flex justify-center items-start gap-4">
       <div class="flex flex-col justify-center items-center">
         <div class="days text-[#484646] text-[5rem] font-medium"></div>
@@ -114,15 +141,15 @@
   <!-- About -->
   <section class="flex flex-col justify-center items-center bg-[url('./img/bg-2.png')] bg-cover bg-no-repeat bg-fixed bg-center py-16">
     <div class="text-center w-[80%]">
-      <h1 class="text-white text-[3rem] font-medium mb-5">About Lead Magnet</h1>
-      <h3 class="text-white text-[1.25rem] font-light">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nobis, provident incidunt repudiandae officiis similique, cumque magnam ab repellendus, ex possimus id fuga! Similique voluptas alias repellat veritatis sint, possimus culpa, iste odio maxime est exercitationem voluptatum. Dolor autem corporis quidem eaque porro sunt vel necessitatibus alias quae expedita, excepturi voluptatum?</h3>
+      <h1 class="text-white text-[3rem] max-[576px]:text-[2rem] font-medium mb-5">About Lead Magnet</h1>
+      <h3 class="text-white text-[1.25rem] max-[576px]:text-[1rem] font-light">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nobis, provident incidunt repudiandae officiis similique, cumque magnam ab repellendus, ex possimus id fuga! Similique voluptas alias repellat veritatis sint, possimus culpa, iste odio maxime est exercitationem voluptatum. Dolor autem corporis quidem eaque porro sunt vel necessitatibus alias quae expedita, excepturi voluptatum?</h3>
     </div>
     <div class="flex justify-center items-center my-5">
-      <img width="65%" src="./img/BoxMockup.svg" alt="mockup">
+      <img class="min-[992px]:w-[65%] min-[768px]:w-[80%] max-[576px]:w-[80%]" src="./img/BoxMockup.svg" alt="mockup">
     </div>
-    <div class="flex justify-center items-start gap-20">
+    <div class="flex flex-wrap justify-center items-start gap-20 max-[576px]:-my-10">
       <!-- Frontend -->
-      <div class="flex flex-col justify-start items-center">
+      <div class="flex flex-col justify-start items-center max-[576px]:scale-[0.8]">
         <button class="collapsible flex justify-between items-center bg-white rounded-[30px] w-[32rem] p-5 relative z-[2]">
           <div class="flex justify-center items-center gap-2">
             <img width="12%" src="./img/target.png" alt="target">
@@ -192,7 +219,7 @@
       </div>
 
       <!-- Upsell -->
-      <div class="flex flex-col justify-start items-center">
+      <div class="flex flex-col justify-start items-center max-[576px]:scale-[0.8] max-[576px]:-mt-32">
         <button class="collapsible flex justify-between items-center bg-white rounded-[30px] w-[32rem] p-5 relative z-[2]">
           <div class="flex justify-center items-center gap-2">
             <img width="12%" src="./img/target.png" alt="target">
@@ -282,7 +309,7 @@
       </div>
     </div>
     <div class="w-[80%]">
-      <p class="p-class text-center text-white text-[1.15rem] mt-[9rem]">Quotes Buddy 2.0 is your go-to tool for creating captivating and impactful content without breaking the bank. With its intuitive interface and extensive library of themes, Quotes Buddy 2.0 caters to users of all skill levels and budgets, ensuring that anyone can effortlessly produce stunning visuals that resonate with their audience and drive results. Say goodbye to complex software and hello to limitless creativity with Quotes Buddy 2.0 – the ultimate companion for achieving your digital marketing goals.</p>
+      <p class="p-class text-center text-white text-[1.15rem] max-[576px]:text-[1rem] mt-[9rem]">Quotes Buddy 2.0 is your go-to tool for creating captivating and impactful content without breaking the bank. With its intuitive interface and extensive library of themes, Quotes Buddy 2.0 caters to users of all skill levels and budgets, ensuring that anyone can effortlessly produce stunning visuals that resonate with their audience and drive results. Say goodbye to complex software and hello to limitless creativity with Quotes Buddy 2.0 – the ultimate companion for achieving your digital marketing goals.</p>
     </div>
     <div class="w-[80%] mt-16 mb-8">
       <h3 class="text-center text-white text-[2.5rem] font-semibold">Here are some specific examples of how can be used by different professions:</h3>
