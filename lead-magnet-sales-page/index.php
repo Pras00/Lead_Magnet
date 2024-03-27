@@ -389,9 +389,9 @@
                     <p class="text-[1.5rem]">Minutes</p>
                 </div>
             </div>
-            <div class="flex flex-col justify-center items-center relative text-white">
+            <div class="flex flex-col justify-center items-center relative text-white my-8">
                 <div class="flex justify-center items-center">
-                    <div class=" text-center flex justify-center items-center w-80">
+                    <div class="text-center flex justify-center items-center w-80 hidden md:flex">
                         <h3 class="text-[6rem] leading-[9rem]">DO <br> N'T</h3>
                     </div>
                     <div class="flex justify-center items-center gap-1">
@@ -404,21 +404,21 @@
                             <div class="h-[110px] w-[128px] bg-gradient-to-tl from-[#607274] to-[#ffffff]"></div>
                         </div>
                     </div>
-                    <div class="text-center flex justify-center items-center text-[10rem] text-black absolute left-[334px]">
+                    <div class="text-center flex justify-center items-center text-[10rem] text-black absolute left-[15px] md:left-[334px]">
                         <div class="seconds-puluhan"></div>
                     </div>
-                    <div class="text-center flex justify-center items-center text-[10rem] text-black absolute right-[334px]">
+                    <div class="text-center flex justify-center items-center text-[10rem] text-black absolute right-[15px] md:right-[334px]">
                         <div class="seconds-satuan"></div>
                     </div>
-                    <div class="text-center flex justify-center items-center w-80">
+                    <div class="text-center flex justify-center items-center w-80 hidden md:flex">
                         <h3 class="text-[6rem] leading-[9rem]">MISS <br> IT!</h3>
                     </div>
                 </div>
-                <div class="text-center flex justify-center items-center text-[2rem] absolute top-[256px] left-[324px] tracking-[1rem]">
+                <div class="text-center flex justify-center items-center text-[2rem] absolute top-[256px] left-[324px] tracking-[1rem] hidden md:flex">
                     <p>SECONDS</p>
                 </div>
             </div>
-            <div class="flex justify-center items-center w-full my-24 px-5">
+            <div class="flex justify-center items-center w-full my-16 px-5">
                 <a class="flex justify-between items-center w-[492px] bg-[#FFC90C] px-2 py-2 rounded-[50px]" href="#">
                     <h3 class="text-black font-2rem pl-6">Get Instant Access Now</h3>
                     <img width="w-[5%] md:w-[15%]" src="./img/icon-btn.png" alt="img">
@@ -699,7 +699,7 @@
                 With 50% Discount.
             </h1>
 
-            <div class="flex items-center justify-center mt-8">
+            <div class="flex items-center justify-center mt-8 px-5">
                 <img class="img" src="img/BoxMockup3 1.svg" alt="">
             </div>
 
