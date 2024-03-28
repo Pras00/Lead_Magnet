@@ -11,15 +11,7 @@
     .container {
         /* background-color: rgb(15 23 42); */
         /* background-color: rgb(226 232 240); */
-        background: hsla(208, 33%, 21%, 1);
-
-        background: linear-gradient(90deg, hsla(208, 33%, 21%, 1) 0%, hsla(211, 36%, 46%, 1) 100%);
-
-        background: -moz-linear-gradient(90deg, hsla(208, 33%, 21%, 1) 0%, hsla(211, 36%, 46%, 1) 100%);
-
-        background: -webkit-linear-gradient(90deg, hsla(208, 33%, 21%, 1) 0%, hsla(211, 36%, 46%, 1) 100%);
-
-        filter: progid: DXImageTransform.Microsoft.gradient(startColorstr="#243748", endColorstr="#4B749F", GradientType=1);
+        background-image: url(../img/bg.png);
         width: 100%;
         height: auto;
         display: flex;
@@ -32,8 +24,9 @@
         font-family: "Poppins", sans-serif;
         font-weight: 700;
         font-style: normal;
-        color: white;
-        /* color: rgb(15 23 42); */
+        background-image: linear-gradient(144deg, #00DDEB, #AF40FF 50%, #00DDEB);
+        color: transparent;
+        background-clip: text;
         text-align: center;
         font-size: 2rem;
         width: 90%;
@@ -56,8 +49,7 @@
         font-family: "Poppins", sans-serif;
         font-weight: 700;
         font-style: normal;
-        color: white;
-        /* color: rgb(15 23 42); */
+        color: black;
         text-align: center;
         font-size: 1.5rem;
         margin: 15px 0 15px 0;
@@ -67,8 +59,7 @@
         font-family: "Poppins", sans-serif;
         font-weight: 300;
         font-style: normal;
-        color: white;
-        /* color: rgb(15 23 42); */
+        color: black;
         text-align: justify;
         font-size: 1rem;
     }
@@ -77,8 +68,7 @@
         font-family: "Poppins", sans-serif;
         font-weight: 600;
         font-style: normal;
-        color: white;
-        /* color: rgb(15 23 42); */
+        color: black;
         text-align: center;
         font-size: 1rem;
     }
@@ -98,7 +88,7 @@
         font-family: "Poppins", sans-serif;
         font-weight: 600;
         width: 100%;
-        background-color: rgb(29 78 216);
+        background-color: #352CE8;
         color: white;
         padding: 14px 20px;
         margin: 8px 0;
@@ -114,7 +104,7 @@
 
     .container {
         /* background-color: rgb(15 23 42); */
-        background-image: url(../img/stacked-waves-haikei.svg);
+        background-image: url(../img/bg.png);
         width: 100%;
         height: 100vh;
         display: flex;
@@ -154,7 +144,7 @@
         font-family: "Poppins", sans-serif;
         font-weight: 700;
         font-style: normal;
-        color: white;
+        color: black;
         text-align: center;
         font-size: 1.5rem;
         margin-bottom: 15px;
@@ -164,8 +154,7 @@
         font-family: "Poppins", sans-serif;
         font-weight: 300;
         font-style: normal;
-        color: white;
-        /* color: rgb(15 23 42); */
+        color: black;
         text-align: justify;
         font-size: 1rem;
     }
@@ -174,8 +163,7 @@
         font-family: "Poppins", sans-serif;
         font-weight: 600;
         font-style: normal;
-        color: white;
-        /* color: rgb(15 23 42); */
+        color: black;
         text-align: center;
         font-size: 1rem;
     }
@@ -194,7 +182,7 @@
         font-family: "Poppins", sans-serif;
         font-weight: 600;
         width: 70%;
-        background-image: linear-gradient(144deg, #AF40FF, #5B42F3 50%, #00DDEB);
+        background-color: #352CE8;
         color: white;
         padding: 14px 20px;
         margin: 8px 0;
@@ -210,6 +198,6 @@ button:hover {
     background-color: rgb(2 132 199);
 }
 
-input:focus {
-    border: 1px solid blue;
+input {
+    background-color: #d9d9d9;
 }
