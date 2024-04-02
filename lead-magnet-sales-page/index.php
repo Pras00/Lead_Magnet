@@ -814,7 +814,7 @@
                 <?php endforeach; ?>
 
                 <?php foreach ($secondHalf as $faq) : ?>
-                    <details class="group py-1 text-lg">
+                    <details class="group py-1 text-lg title-faq">
                         <summary class="flex cursor-pointer flex-row items-center justify-between py-1 font-semibold text-black bg-white p-8 py-3 rounded-t-lg">
                             <?php echo $faq["question"]; ?>
                             <svg class="h-6 w-6 rotate-0 transform text-black group-open:rotate-180" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">
