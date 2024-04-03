@@ -345,7 +345,7 @@
     <div class="bg-4 container-lg p-5 md:p-16">
         <div class="flex flex-row items-center text-center">
             <img src="img/arrow-right.png" alt="" class="w-[40px] md:w-[4%]">
-            <h1 class="inter-regular font-2rem ms-5">
+            <h1 class="inter-regular font-2-5rem ms-5">
                 Outdoor Gear Rental Shops
             </h1>
         </div>
@@ -364,7 +364,7 @@
             </div>
 
             <div class="col-span-1">
-                <img src="img/BoxMockup 4.png" alt="">
+                <img class="img ms-0 md:ms-16" src="img/mockup-rental.png" alt="">
             </div>
         </div>
         <div class="flex justify-center">
@@ -372,6 +372,426 @@
         </div>
     </div>
 
+    <div class="bg-5 container-lg p-5 md:p-16">
+        <div class="flex flex-row items-center text-center">
+            <img src="img/arrow-right.png" alt="" class="w-[40px] md:w-[4%]">
+            <h1 class="inter-regular font-2-5rem ms-5">
+                Electronic Store
+            </h1>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular my-12">
+            <div class="col-span-1">
+                <img class="img" src="img/mockup-elektronik.png" alt="">
+            </div>
+            <div class="col-span-1 flex justify-center items-center">
+                <div class="grid grid-cols-1 gap-5">
+                    <div class="bg-rental py-12 px-5 text-white">
+                        <h1 class="inter-medium font-1-5rem mb-5">Peningkatan Prospek</h1>
+                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
+                    </div>
+                    <div class="bg-rental-2 py-12 px-5 text-black">
+                        <h1 class="inter-medium font-1-5rem mb-5">Pengumpulan Data</h1>
+                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="flex justify-center">
+            <img class="w-[100%] md:w-[90%]" src="img/preview.png" alt="">
+        </div>
+    </div>
+
+    <div class="bg-4 container-lg p-5 md:p-16">
+        <div class="flex flex-row items-center text-center">
+            <img src="img/arrow-right.png" alt="" class="w-[40px] md:w-[4%]">
+            <h1 class="inter-regular font-2-5rem ms-5">
+                Cosmetic Store
+            </h1>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular my-12">
+            <div class="col-span-1 flex justify-center items-center">
+                <div class="grid grid-cols-1 gap-5">
+                    <div class="bg-rental py-12 px-5 text-white">
+                        <h1 class="inter-medium font-1-5rem mb-5">Peningkatan Prospek</h1>
+                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
+                    </div>
+                    <div class="bg-rental-2 py-12 px-5 text-black">
+                        <h1 class="inter-medium font-1-5rem mb-5">Pengumpulan Data</h1>
+                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-span-1">
+                <img class="img ms-0 md:ms-16" src="img/mockup-kosmetik.png" alt="">
+            </div>
+        </div>
+        <div class="flex justify-center">
+            <img class="w-[100%] md:w-[90%]" src="img/preview.png" alt="">
+        </div>
+    </div>
+
+    <div class="bg-5 container-lg p-5 md:p-16">
+        <div class="flex flex-row items-center text-center">
+            <img src="img/arrow-right.png" alt="" class="w-[40px] md:w-[4%]">
+            <h1 class="inter-regular font-2-5rem ms-5">
+                Souvenir
+            </h1>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular my-12">
+            <div class="col-span-1">
+                <img class="img" src="img/mockup-souvenir.png" alt="">
+            </div>
+            <div class="col-span-1 flex justify-center items-center">
+                <div class="grid grid-cols-1 gap-5">
+                    <div class="bg-rental py-12 px-5 text-white">
+                        <h1 class="inter-medium font-1-5rem mb-5">Peningkatan Prospek</h1>
+                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
+                    </div>
+                    <div class="bg-rental-2 py-12 px-5 text-black">
+                        <h1 class="inter-medium font-1-5rem mb-5">Pengumpulan Data</h1>
+                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="flex justify-center">
+            <img class="w-[100%] md:w-[90%]" src="img/preview.png" alt="">
+        </div>
+    </div>
+
+    <div class="bg-4 container-lg p-5 md:p-16">
+        <div class="flex flex-row items-center text-center">
+            <img src="img/arrow-right.png" alt="" class="w-[40px] md:w-[4%]">
+            <h1 class="inter-regular font-2-5rem ms-5">
+                Music Store
+            </h1>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular my-12">
+            <div class="col-span-1 flex justify-center items-center">
+                <div class="grid grid-cols-1 gap-5">
+                    <div class="bg-rental py-12 px-5 text-white">
+                        <h1 class="inter-medium font-1-5rem mb-5">Peningkatan Prospek</h1>
+                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
+                    </div>
+                    <div class="bg-rental-2 py-12 px-5 text-black">
+                        <h1 class="inter-medium font-1-5rem mb-5">Pengumpulan Data</h1>
+                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-span-1">
+                <img class="img ms-0 md:ms-16" src="img/mockup-musik.png" alt="">
+            </div>
+        </div>
+        <div class="flex justify-center">
+            <img class="w-[100%] md:w-[90%]" src="img/preview.png" alt="">
+        </div>
+    </div>
+
+    <div class="bg-5 container-lg p-5 md:p-16">
+        <div class="flex flex-row items-center text-center">
+            <img src="img/arrow-right.png" alt="" class="w-[40px] md:w-[4%]">
+            <h1 class="inter-regular font-2-5rem ms-5">
+                Seamstress
+            </h1>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular my-12">
+            <div class="col-span-1">
+                <img class="img" src="img/mockup-seam.png" alt="">
+            </div>
+            <div class="col-span-1 flex justify-center items-center">
+                <div class="grid grid-cols-1 gap-5">
+                    <div class="bg-rental py-12 px-5 text-white">
+                        <h1 class="inter-medium font-1-5rem mb-5">Peningkatan Prospek</h1>
+                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
+                    </div>
+                    <div class="bg-rental-2 py-12 px-5 text-black">
+                        <h1 class="inter-medium font-1-5rem mb-5">Pengumpulan Data</h1>
+                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="flex justify-center">
+            <img class="w-[100%] md:w-[90%]" src="img/preview.png" alt="">
+        </div>
+    </div>
+
+    <div class="bg-4 container-lg p-5 md:p-16">
+        <div class="flex flex-row items-center text-center">
+            <img src="img/arrow-right.png" alt="" class="w-[40px] md:w-[4%]">
+            <h1 class="inter-regular font-2-5rem ms-5">
+                Boutique Fashion
+            </h1>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular my-12">
+            <div class="col-span-1 flex justify-center items-center">
+                <div class="grid grid-cols-1 gap-5">
+                    <div class="bg-rental py-12 px-5 text-white">
+                        <h1 class="inter-medium font-1-5rem mb-5">Peningkatan Prospek</h1>
+                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
+                    </div>
+                    <div class="bg-rental-2 py-12 px-5 text-black">
+                        <h1 class="inter-medium font-1-5rem mb-5">Pengumpulan Data</h1>
+                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-span-1">
+                <img class="img ms-0 md:ms-16" src="img/mockup-boutique.png" alt="">
+            </div>
+        </div>
+        <div class="flex justify-center">
+            <img class="w-[100%] md:w-[90%]" src="img/preview.png" alt="">
+        </div>
+    </div>
+
+    <div class="bg-5 container-lg p-5 md:p-16">
+        <div class="flex flex-row items-center text-center">
+            <img src="img/arrow-right.png" alt="" class="w-[40px] md:w-[4%]">
+            <h1 class="inter-regular font-2-5rem ms-5">
+                Beauty Clinic
+            </h1>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular my-12">
+            <div class="col-span-1">
+                <img class="img" src="img/mockup-beauty.png" alt="">
+            </div>
+            <div class="col-span-1 flex justify-center items-center">
+                <div class="grid grid-cols-1 gap-5">
+                    <div class="bg-rental py-12 px-5 text-white">
+                        <h1 class="inter-medium font-1-5rem mb-5">Peningkatan Prospek</h1>
+                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
+                    </div>
+                    <div class="bg-rental-2 py-12 px-5 text-black">
+                        <h1 class="inter-medium font-1-5rem mb-5">Pengumpulan Data</h1>
+                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="flex justify-center">
+            <img class="w-[100%] md:w-[90%]" src="img/preview.png" alt="">
+        </div>
+    </div>
+
+    <div class="bg-4 container-lg p-5 md:p-16">
+        <div class="flex flex-row items-center text-center">
+            <img src="img/arrow-right.png" alt="" class="w-[40px] md:w-[4%]">
+            <h1 class="inter-regular font-2-5rem ms-5">
+                Photography Studio
+            </h1>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular my-12">
+            <div class="col-span-1 flex justify-center items-center">
+                <div class="grid grid-cols-1 gap-5">
+                    <div class="bg-rental py-12 px-5 text-white">
+                        <h1 class="inter-medium font-1-5rem mb-5">Peningkatan Prospek</h1>
+                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
+                    </div>
+                    <div class="bg-rental-2 py-12 px-5 text-black">
+                        <h1 class="inter-medium font-1-5rem mb-5">Pengumpulan Data</h1>
+                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-span-1">
+                <img class="img ms-0 md:ms-16" src="img/mockup-photography.png" alt="">
+            </div>
+        </div>
+        <div class="flex justify-center">
+            <img class="w-[100%] md:w-[90%]" src="img/preview.png" alt="">
+        </div>
+    </div>
+
+    <div class="bg-5 container-lg p-5 md:p-16">
+        <div class="flex flex-row items-center text-center">
+            <img src="img/arrow-right.png" alt="" class="w-[40px] md:w-[4%]">
+            <h1 class="inter-regular font-2-5rem ms-5">
+                Furniture Store
+            </h1>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular my-12">
+            <div class="col-span-1">
+                <img class="img" src="img/mockup-furniture.png" alt="">
+            </div>
+            <div class="col-span-1 flex justify-center items-center">
+                <div class="grid grid-cols-1 gap-5">
+                    <div class="bg-rental py-12 px-5 text-white">
+                        <h1 class="inter-medium font-1-5rem mb-5">Peningkatan Prospek</h1>
+                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
+                    </div>
+                    <div class="bg-rental-2 py-12 px-5 text-black">
+                        <h1 class="inter-medium font-1-5rem mb-5">Pengumpulan Data</h1>
+                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="flex justify-center">
+            <img class="w-[100%] md:w-[90%]" src="img/preview.png" alt="">
+        </div>
+    </div>
+
+    <div class="bg-4 container-lg p-5 md:p-16">
+        <div class="flex flex-row items-center text-center">
+            <img src="img/arrow-right.png" alt="" class="w-[40px] md:w-[4%]">
+            <h1 class="inter-regular font-2-5rem ms-5">
+                Fruit Store
+            </h1>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular my-12">
+            <div class="col-span-1 flex justify-center items-center">
+                <div class="grid grid-cols-1 gap-5">
+                    <div class="bg-rental py-12 px-5 text-white">
+                        <h1 class="inter-medium font-1-5rem mb-5">Peningkatan Prospek</h1>
+                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
+                    </div>
+                    <div class="bg-rental-2 py-12 px-5 text-black">
+                        <h1 class="inter-medium font-1-5rem mb-5">Pengumpulan Data</h1>
+                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-span-1">
+                <img class="img ms-0 md:ms-16" src="img/mockup-fruit.png" alt="">
+            </div>
+        </div>
+        <div class="flex justify-center">
+            <img class="w-[100%] md:w-[90%]" src="img/preview.png" alt="">
+        </div>
+    </div>
+
+    <div class="bg-5 container-lg p-5 md:p-16">
+        <div class="flex flex-row items-center text-center">
+            <img src="img/arrow-right.png" alt="" class="w-[40px] md:w-[4%]">
+            <h1 class="inter-regular font-2-5rem ms-5">
+                Food Truck
+            </h1>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular my-12">
+            <div class="col-span-1">
+                <img class="img" src="img/mockup-foodtruck.png" alt="">
+            </div>
+            <div class="col-span-1 flex justify-center items-center">
+                <div class="grid grid-cols-1 gap-5">
+                    <div class="bg-rental py-12 px-5 text-white">
+                        <h1 class="inter-medium font-1-5rem mb-5">Peningkatan Prospek</h1>
+                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
+                    </div>
+                    <div class="bg-rental-2 py-12 px-5 text-black">
+                        <h1 class="inter-medium font-1-5rem mb-5">Pengumpulan Data</h1>
+                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="flex justify-center">
+            <img class="w-[100%] md:w-[90%]" src="img/preview.png" alt="">
+        </div>
+    </div>
+
+
+    <div class="bg-4 container-lg p-5 md:p-16">
+        <div class="flex flex-row items-center text-center">
+            <img src="img/arrow-right.png" alt="" class="w-[40px] md:w-[4%]">
+            <h1 class="inter-regular font-2-5rem ms-5">
+                Vegetable Store
+            </h1>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular my-12">
+            <div class="col-span-1 flex justify-center items-center">
+                <div class="grid grid-cols-1 gap-5">
+                    <div class="bg-rental py-12 px-5 text-white">
+                        <h1 class="inter-medium font-1-5rem mb-5">Peningkatan Prospek</h1>
+                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
+                    </div>
+                    <div class="bg-rental-2 py-12 px-5 text-black">
+                        <h1 class="inter-medium font-1-5rem mb-5">Pengumpulan Data</h1>
+                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-span-1">
+                <img class="img ms-0 md:ms-16" src="img/mockup-vegetable.png" alt="">
+            </div>
+        </div>
+        <div class="flex justify-center">
+            <img class="w-[100%] md:w-[90%]" src="img/preview.png" alt="">
+        </div>
+    </div>
+
+    <div class="bg-5 container-lg p-5 md:p-16">
+        <div class="flex flex-row items-center text-center">
+            <img src="img/arrow-right.png" alt="" class="w-[40px] md:w-[4%]">
+            <h1 class="inter-regular font-2-5rem ms-5">
+                Fitness / Gym
+            </h1>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular my-12">
+            <div class="col-span-1">
+                <img class="img" src="img/mockup-fitnes.png" alt="">
+            </div>
+            <div class="col-span-1 flex justify-center items-center">
+                <div class="grid grid-cols-1 gap-5">
+                    <div class="bg-rental py-12 px-5 text-white">
+                        <h1 class="inter-medium font-1-5rem mb-5">Peningkatan Prospek</h1>
+                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
+                    </div>
+                    <div class="bg-rental-2 py-12 px-5 text-black">
+                        <h1 class="inter-medium font-1-5rem mb-5">Pengumpulan Data</h1>
+                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="flex justify-center">
+            <img class="w-[100%] md:w-[90%]" src="img/preview.png" alt="">
+        </div>
+    </div>
+
+    <div class="bg-4 container-lg p-5 md:p-16">
+        <div class="flex flex-row items-center text-center">
+            <img src="img/arrow-right.png" alt="" class="w-[40px] md:w-[4%]">
+            <h1 class="inter-regular font-2-5rem ms-5">
+                Book Store
+            </h1>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular my-12">
+            <div class="col-span-1 flex justify-center items-center">
+                <div class="grid grid-cols-1 gap-5">
+                    <div class="bg-rental py-12 px-5 text-white">
+                        <h1 class="inter-medium font-1-5rem mb-5">Peningkatan Prospek</h1>
+                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
+                    </div>
+                    <div class="bg-rental-2 py-12 px-5 text-black">
+                        <h1 class="inter-medium font-1-5rem mb-5">Pengumpulan Data</h1>
+                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-span-1">
+                <img class="img ms-0 md:ms-16" src="img/mockup-book.png" alt="">
+            </div>
+        </div>
+        <div class="flex justify-center">
+            <img class="w-[100%] md:w-[90%]" src="img/preview.png" alt="">
+        </div>
+    </div>
 
     <div class="container-lg bg-1">
         <div class="flex flex-col items-center justify-center px-5">

@@ -15,23 +15,25 @@
 
     <!-- headline -->
     <div class="bg-1 container-lg">
-        <div class="flex flex-col items-center justify-center px-5 md:px-24">
-            <img class="mt-8 w-[10%] md:w-[5%]" src="img/logo-lm.png" alt="">
+        <div class="flex flex-col items-center justify-center">
+            <div class="flex flex-col items-center justify-center px-5 md:px-24">
+                <img class="mt-8 w-[10%] md:w-[5%]" src="img/logo-lm.png" alt="">
 
-            <h1 class="inter-semibold text-[#352CE8] text-center font-3rem mt-5">
-                Dapatkan Lebih Banyak Pelanggan <span class="text-black">dan Kembangkan Bisnis Anda Dengan</span> Email Marketing.
-            </h1>
+                <h1 class="inter-semibold text-[#352CE8] text-center font-3rem mt-5">
+                    Dapatkan Lebih Banyak Pelanggan <span class="text-black">dan Kembangkan Bisnis Anda Dengan</span> Email Marketing.
+                </h1>
 
-            <h3 class="inter-regular text-black text-center font-1-5rem mt-12 md:w-[90%]">
-                Dengan menggabungkan lead magnet dengan strategi pemasaran digital yang baik, Anda dapat mencapai tujuan pemasaran Anda dengan lebih efektif dan efisien.
-            </h3>
-            <div class="border-0 bg-[#352CE8] rounded-full w-full md:w-[80%] px-8 py-5 my-16 mx-8">
-                <h3 class="inter-medium font-1-2rem text-center text-white">
-                    Everything is ALL Yours! - You can do anything with this AMAZING Quote Designs Collection
+                <h3 class="inter-regular text-black text-center font-1-5rem mt-12 md:w-[90%]">
+                    Dengan menggabungkan lead magnet dengan strategi pemasaran digital yang baik, Anda dapat mencapai tujuan pemasaran Anda dengan lebih efektif dan efisien.
                 </h3>
+                <div class="border-0 bg-[#352CE8] rounded-full w-full md:w-[80%] px-8 py-5 my-16 mx-8">
+                    <h3 class="inter-medium font-1-2rem text-center text-white">
+                        Everything is ALL Yours! - You can do anything with this AMAZING Quote Designs Collection
+                    </h3>
+                </div>
             </div>
 
-            <img class="p-5 img" src="img/BoxMockup3 1.svg" alt="">
+            <img class="p-5 img" src="img/BoxMockup3 2.png" alt="">
 
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-3 gap-4 mb-16  mx-4 md:mx-8 lg:mx-16 inter-bold text-start text-black">
                 <div class="border-0 bg-white drop-shadow-lg rounded-2xl px-4 md:px-5 lg:px-6 py-5 w-full md:w-[80%] flex items-center justify-self-end">
@@ -85,8 +87,8 @@
             </div>
 
             <h1 class="inter-regular text-black text-center font-2rem mb-5">Grab This Offer for 50% OFF!</h1>
-            <button id="btn-payment" type="button" class="flex justify-between items-center text-white bg-[#352CE8] hover:bg-bg-yellow-600 inter-regular font-1-5rem rounded-full py-1 dark:hover:bg-[#FF9119]/80 dark:focus:ring-[#FF9119]/40 mb-24 px-3">
-                <span>Get Instant Access Now</span>
+            <button id="btn-payment" type="button" class="flex justify-between items-center text-white bg-[#352CE8] hover:bg-bg-yellow-600 inter-regular font-1-5rem rounded-full py-1 dark:hover:bg-[#FF9119]/80 dark:focus:ring-[#FF9119]/40 mb-24 px-1">
+                <span class="ps-16">Get Instant Access Now</span>
                 <img src="img/icon-btn.png" alt="">
             </button>
 
@@ -172,7 +174,7 @@
     <div class="container-lg bg-white drop-shadow-lg rounded-b-2xl">
         <div class="flex flex-col items-center justify-center py-12 text-center text-black">
             <h1 class="inter-medium font-2-5rem">Introducing...</h1>
-            <img class="my-8 img2" src="img/BoxMockup3 1.svg" alt="">
+            <img class="my-8 img2" src="img/BoxMockup3 2.png" alt="">
             <h1 class="inter-regular font-1-5rem w-3/4">
                 The Ultimate Collection Of <span class="text-[#352CE8]">Ready-To-Upload</span> Animated Quote Design
                 Templates To Take Your Social Media Presence <span class="text-[#352CE8]">To The Next Level</span>
@@ -309,8 +311,8 @@
     <div class="bg-5 container-lg p-5 md:p-16">
         <div class="flex flex-row items-center text-center">
             <img src="img/arrow-right.png" alt="" class="w-[40px] md:w-[4%]">
-            <h1 class="inter-regular font-2rem ms-5">
-                Outdoor Gear Rental Shops
+            <h1 class="inter-regular font-2-5rem ms-5">
+                Food Catering
             </h1>
         </div>
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular my-12">
@@ -328,7 +330,7 @@
             </div>
 
             <div class="col-span-1">
-                <img src="img/BoxMockup 4.png" alt="">
+                <img class="img ms-0 md:ms-16" src="img/mockup-food.png" alt="">
             </div>
         </div>
         <div class="flex justify-center">
@@ -339,13 +341,253 @@
     <div class="bg-3 container-lg p-5 md:p-16">
         <div class="flex flex-row items-center text-center">
             <img src="img/arrow-right.png" alt="" class="w-[40px] md:w-[4%]">
-            <h1 class="inter-regular font-2rem ms-5">
-                Outdoor Gear Rental Shops
+            <h1 class="inter-regular font-2-5rem ms-5">
+                Pet Shop
             </h1>
         </div>
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular my-12">
             <div class="col-span-1">
-                <img src="img/BoxMockup 4.png" alt="">
+                <img class="img" src="img/mockup-pet.png" alt="">
+            </div>
+            <div class="col-span-1 flex justify-center items-center">
+                <div class="grid grid-cols-1 gap-5">
+                    <div class="bg-rental py-12 px-5 text-white">
+                        <h1 class="inter-medium font-1-5rem mb-5">Peningkatan Prospek</h1>
+                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
+                    </div>
+                    <div class="bg-rental-2 py-12 px-5 text-black">
+                        <h1 class="inter-medium font-1-5rem mb-5">Pengumpulan Data</h1>
+                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="flex justify-center">
+            <img class="w-[100%] md:w-[90%]" src="img/preview.png" alt="">
+        </div>
+    </div>
+
+    <div class="bg-5 container-lg p-5 md:p-16">
+        <div class="flex flex-row items-center text-center">
+            <img src="img/arrow-right.png" alt="" class="w-[40px] md:w-[4%]">
+            <h1 class="inter-regular font-2-5rem ms-5">
+                Bakery
+            </h1>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular my-12">
+            <div class="col-span-1 flex justify-center items-center">
+                <div class="grid grid-cols-1 gap-5">
+                    <div class="bg-rental py-12 px-5 text-white">
+                        <h1 class="inter-medium font-1-5rem mb-5">Peningkatan Prospek</h1>
+                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
+                    </div>
+                    <div class="bg-rental-2 py-12 px-5 text-black">
+                        <h1 class="inter-medium font-1-5rem mb-5">Pengumpulan Data</h1>
+                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-span-1">
+                <img class="img ms-0 md:ms-16" src="img/mockup-bakery.png" alt="">
+            </div>
+        </div>
+        <div class="flex justify-center">
+            <img class="w-[100%] md:w-[90%]" src="img/preview.png" alt="">
+        </div>
+    </div>
+
+    <div class="bg-3 container-lg p-5 md:p-16">
+        <div class="flex flex-row items-center text-center">
+            <img src="img/arrow-right.png" alt="" class="w-[40px] md:w-[4%]">
+            <h1 class="inter-regular font-2-5rem ms-5">
+                Souvenir
+            </h1>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular my-12">
+            <div class="col-span-1">
+                <img class="img" src="img/mockup-souvenir.png" alt="">
+            </div>
+            <div class="col-span-1 flex justify-center items-center">
+                <div class="grid grid-cols-1 gap-5">
+                    <div class="bg-rental py-12 px-5 text-white">
+                        <h1 class="inter-medium font-1-5rem mb-5">Peningkatan Prospek</h1>
+                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
+                    </div>
+                    <div class="bg-rental-2 py-12 px-5 text-black">
+                        <h1 class="inter-medium font-1-5rem mb-5">Pengumpulan Data</h1>
+                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="flex justify-center">
+            <img class="w-[100%] md:w-[90%]" src="img/preview.png" alt="">
+        </div>
+    </div>
+
+    <div class="bg-5 container-lg p-5 md:p-16">
+        <div class="flex flex-row items-center text-center">
+            <img src="img/arrow-right.png" alt="" class="w-[40px] md:w-[4%]">
+            <h1 class="inter-regular font-2-5rem ms-5">
+                Florist
+            </h1>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular my-12">
+            <div class="col-span-1 flex justify-center items-center">
+                <div class="grid grid-cols-1 gap-5">
+                    <div class="bg-rental py-12 px-5 text-white">
+                        <h1 class="inter-medium font-1-5rem mb-5">Peningkatan Prospek</h1>
+                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
+                    </div>
+                    <div class="bg-rental-2 py-12 px-5 text-black">
+                        <h1 class="inter-medium font-1-5rem mb-5">Pengumpulan Data</h1>
+                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-span-1">
+                <img class="img ms-0 md:ms-16" src="img/mockup-florist.png" alt="">
+            </div>
+        </div>
+        <div class="flex justify-center">
+            <img class="w-[100%] md:w-[90%]" src="img/preview.png" alt="">
+        </div>
+    </div>
+
+    <div class="bg-3 container-lg p-5 md:p-16">
+        <div class="flex flex-row items-center text-center">
+            <img src="img/arrow-right.png" alt="" class="w-[40px] md:w-[4%]">
+            <h1 class="inter-regular font-2-5rem ms-5">
+                Coffe Shop
+            </h1>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular my-12">
+            <div class="col-span-1">
+                <img class="img" src="img/mockup-coffe.png" alt="">
+            </div>
+            <div class="col-span-1 flex justify-center items-center">
+                <div class="grid grid-cols-1 gap-5">
+                    <div class="bg-rental py-12 px-5 text-white">
+                        <h1 class="inter-medium font-1-5rem mb-5">Peningkatan Prospek</h1>
+                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
+                    </div>
+                    <div class="bg-rental-2 py-12 px-5 text-black">
+                        <h1 class="inter-medium font-1-5rem mb-5">Pengumpulan Data</h1>
+                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="flex justify-center">
+            <img class="w-[100%] md:w-[90%]" src="img/preview.png" alt="">
+        </div>
+    </div>
+
+    <div class="bg-5 container-lg p-5 md:p-16">
+        <div class="flex flex-row items-center text-center">
+            <img src="img/arrow-right.png" alt="" class="w-[40px] md:w-[4%]">
+            <h1 class="inter-regular font-2-5rem ms-5">
+                Barbershop
+            </h1>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular my-12">
+            <div class="col-span-1 flex justify-center items-center">
+                <div class="grid grid-cols-1 gap-5">
+                    <div class="bg-rental py-12 px-5 text-white">
+                        <h1 class="inter-medium font-1-5rem mb-5">Peningkatan Prospek</h1>
+                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
+                    </div>
+                    <div class="bg-rental-2 py-12 px-5 text-black">
+                        <h1 class="inter-medium font-1-5rem mb-5">Pengumpulan Data</h1>
+                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-span-1">
+                <img class="img ms-0 md:ms-16" src="img/mockup-barber.png" alt="">
+            </div>
+        </div>
+        <div class="flex justify-center">
+            <img class="w-[100%] md:w-[90%]" src="img/preview.png" alt="">
+        </div>
+    </div>
+
+    <div class="bg-3 container-lg p-5 md:p-16">
+        <div class="flex flex-row items-center text-center">
+            <img src="img/arrow-right.png" alt="" class="w-[40px] md:w-[4%]">
+            <h1 class="inter-regular font-2-5rem ms-5">
+                Nails Art
+            </h1>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular my-12">
+            <div class="col-span-1">
+                <img class="img" src="img/mockup-nails.png" alt="">
+            </div>
+            <div class="col-span-1 flex justify-center items-center">
+                <div class="grid grid-cols-1 gap-5">
+                    <div class="bg-rental py-12 px-5 text-white">
+                        <h1 class="inter-medium font-1-5rem mb-5">Peningkatan Prospek</h1>
+                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
+                    </div>
+                    <div class="bg-rental-2 py-12 px-5 text-black">
+                        <h1 class="inter-medium font-1-5rem mb-5">Pengumpulan Data</h1>
+                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="flex justify-center">
+            <img class="w-[100%] md:w-[90%]" src="img/preview.png" alt="">
+        </div>
+    </div>
+
+    <div class="bg-5 container-lg p-5 md:p-16">
+        <div class="flex flex-row items-center text-center">
+            <img src="img/arrow-right.png" alt="" class="w-[40px] md:w-[4%]">
+            <h1 class="inter-regular font-2-5rem ms-5">
+                Toy Store
+            </h1>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular my-12">
+            <div class="col-span-1 flex justify-center items-center">
+                <div class="grid grid-cols-1 gap-5">
+                    <div class="bg-rental py-12 px-5 text-white">
+                        <h1 class="inter-medium font-1-5rem mb-5">Peningkatan Prospek</h1>
+                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
+                    </div>
+                    <div class="bg-rental-2 py-12 px-5 text-black">
+                        <h1 class="inter-medium font-1-5rem mb-5">Pengumpulan Data</h1>
+                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-span-1">
+                <img class="img ms-0 md:ms-16" src="img/mockup-toy.png" alt="">
+            </div>
+        </div>
+        <div class="flex justify-center">
+            <img class="w-[100%] md:w-[90%]" src="img/preview.png" alt="">
+        </div>
+    </div>
+
+    <div class="bg-3 container-lg p-5 md:p-16">
+        <div class="flex flex-row items-center text-center">
+            <img src="img/arrow-right.png" alt="" class="w-[40px] md:w-[4%]">
+            <h1 class="inter-regular font-2-5rem ms-5">
+                Office Stationary Shop
+            </h1>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular my-12">
+            <div class="col-span-1">
+                <img class="img" src="img/mockup-office.png" alt="">
             </div>
             <div class="col-span-1 flex justify-center items-center">
                 <div class="grid grid-cols-1 gap-5">
@@ -527,7 +769,7 @@
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-3 gap-4 my-16 mx-4 md:mx-8 lg:mx-16 text-black">
                 <div class="border-0 bg-white drop-shadow-lg rounded-2xl px-4 md:px-6 lg:px-8 py-5 w-full flex flex-col md:flex-row items-center justify-start">
                     <div class="flex items-center justify-center mb-5 md:mb-0">
-                        <img class="w-[95px] md:w-[355px]" src="img/img-quality-1.png" alt="">
+                        <img class="w-[125px] md:w-[355px]" src="img/img-quality-1.png" alt="">
                     </div>
                     <div class="flex flex-col justify-center text-left ms-3 md:ms-6">
                         <h3 class="font-1rem text-justify">
@@ -537,7 +779,7 @@
                 </div>
                 <div class="border-0 bg-white drop-shadow-lg rounded-2xl px-4 md:px-6 lg:px-8 py-5 w-full flex flex-col md:flex-row items-center justify-start">
                     <div class="flex items-center justify-center mb-5 md:mb-0">
-                        <img class="w-[95px] md:w-[355px]" src="img/img-quality-2.png" alt="">
+                        <img class="w-[125px] md:w-[355px]" src="img/img-quality-2.png" alt="">
                     </div>
                     <div class="flex flex-col justify-center text-left ms-3 md:ms-6">
                         <h3 class="font-1rem text-justify">
@@ -547,7 +789,7 @@
                 </div>
                 <div class="border-0 bg-white drop-shadow-lg rounded-2xl px-4 md:px-6 lg:px-8 py-5 w-full flex flex-col md:flex-row items-center justify-start">
                     <div class="flex items-center justify-center mb-5 md:mb-0">
-                        <img class="w-[95px] md:w-[355px]" src="img/img-quality-3.png" alt="">
+                        <img class="w-[125px] md:w-[355px]" src="img/img-quality-3.png" alt="">
                     </div>
                     <div class="flex flex-col justify-center text-left ms-3 md:ms-6">
                         <h3 class="font-1rem text-justify">
@@ -557,7 +799,7 @@
                 </div>
                 <div class="border-0 bg-white drop-shadow-lg rounded-2xl px-4 md:px-6 lg:px-8 py-5 w-full flex flex-col md:flex-row items-center justify-start">
                     <div class="flex items-center justify-center mb-5 md:mb-0">
-                        <img class="w-[95px] md:w-[355px]" src="img/img-quality-4.png" alt="">
+                        <img class="w-[125px] md:w-[355px]" src="img/img-quality-4.png" alt="">
                     </div>
                     <div class="flex flex-col justify-center text-left ms-3 md:ms-6">
                         <h3 class="font-1rem text-justify">
@@ -567,7 +809,7 @@
                 </div>
                 <div class="border-0 bg-white drop-shadow-lg rounded-2xl px-4 md:px-6 lg:px-8 py-5 w-full flex flex-col md:flex-row items-center justify-start">
                     <div class="flex items-center justify-center mb-5 md:mb-0">
-                        <img class="w-[95px] md:w-[355px]" src="img/img-quality-5.png" alt="">
+                        <img class="w-[125px] md:w-[355px]" src="img/img-quality-5.png" alt="">
                     </div>
                     <div class="flex flex-col justify-center text-left ms-3 md:ms-6">
                         <h3 class="font-1rem text-justify">
@@ -577,7 +819,7 @@
                 </div>
                 <div class="border-0 bg-white drop-shadow-lg rounded-2xl px-4 md:px-6 lg:px-8 py-5 w-full flex flex-col md:flex-row items-center justify-start">
                     <div class="flex items-center justify-center mb-5 md:mb-0">
-                        <img class="w-[95px] md:w-[355px]" src="img/img-quality-6.png" alt="">
+                        <img class="w-[125px] md:w-[355px]" src="img/img-quality-6.png" alt="">
                     </div>
                     <div class="flex flex-col justify-center text-left ms-3 md:ms-6">
                         <h3 class="font-1rem text-justify">
@@ -587,7 +829,7 @@
                 </div>
                 <div class="border-0 bg-white drop-shadow-lg rounded-2xl px-4 md:px-6 lg:px-8 py-5 w-full flex flex-col md:flex-row items-center justify-start">
                     <div class="flex items-center justify-center mb-5 md:mb-0">
-                        <img class="w-[95px] md:w-[355px]" src="img/img-quality-7.png" alt="">
+                        <img class="w-[125px] md:w-[355px]" src="img/img-quality-7.png" alt="">
                     </div>
                     <div class="flex flex-col justify-center text-left ms-3 md:ms-6">
                         <h3 class="font-1rem text-justify">
@@ -597,7 +839,7 @@
                 </div>
                 <div class="border-0 bg-white drop-shadow-lg rounded-2xl px-4 md:px-6 lg:px-8 py-5 w-full flex flex-col md:flex-row items-center justify-start">
                     <div class="flex items-center justify-center mb-5 md:mb-0">
-                        <img class="w-[95px] md:w-[355px]" src="img/img-quality-8.png" alt="">
+                        <img class="w-[125px] md:w-[355px]" src="img/img-quality-8.png" alt="">
                     </div>
                     <div class="flex flex-col justify-center text-left ms-3 md:ms-6">
                         <h3 class="font-1rem text-justify">
@@ -700,27 +942,27 @@
             </h1>
 
             <div class="flex items-center justify-center mt-8 px-5">
-                <img class="img" src="img/BoxMockup3 1.svg" alt="">
+                <img class="img" src="img/BoxMockup3 2.png" alt="">
             </div>
 
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 mb-16 mx-4 md:mx-8 lg:mx-16 p-3 md:p-16 text-white">
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 mb-12 mx-4 md:mx-8 lg:mx-16 p-3 md:p-16 text-white">
                 <div class="border-0 bg-white drop-shadow-lg rounded-2xl px-4 md:px-6 lg:px-8 py-8">
-                    <h1 class="bg-[url(img/bg-payment.png)] rounded-lg inter-regular text-black font-2rem my-3">
+                    <h1 class="bg-[#999999] rounded-2xl inter-regular text-white font-2rem my-3 py-3">
                         COMMERCIAL License​
                     </h1>
                     <div class="flex flex-row items-center inter-medium font-1rem mt-8 text-black">
-                        <i class="fas fa-check-circle me-5"></i>
+                        <i class="fas fa-check-circle me-5 text-[#08DC03]"></i>
                         <h3 class="text-start">
                             You can use the product in your own Commercial projects and projects you create for clients.
                         </h3>
                     </div>
                     <div class="flex flex-row items-center inter-medium font-1rem mt-3 text-black">
-                        <i class="fas fa-check-circle me-5"></i>
+                        <i class="fas fa-check-circle me-5 text-[#08DC03]"></i>
                         <h3 class="text-start">
                             You can use the product in your own Commercial projects and projects you create for clients.
                         </h3>
                     </div>
-                    <h1 class="bg-[url(img/bg-payment-2.png)] rounded-lg inter-medium font-2rem my-8">
+                    <h1 class="bg-white border-2 border-black rounded-2xl inter-medium text-black font-2rem my-8 py-3">
                         Normal Price <span class="line-through">$37</span>
                     </h1>
                     <h2 class="inter-regular font-1-2rem text-center text-black">
@@ -731,11 +973,12 @@
                         <h3 class="line-through">
                             Regular Price: $27
                         </h3>
-                        <h3>
+                        <h3 class="inter-semibold text-[#FF0404] font-2-5rem">
                             Today: $19
                         </h3>
                     </div>
-                    <div class="flex flex-col items-center">
+                    <hr>
+                    <div class="flex flex-col items-center mt-5">
                         <button type="button" class="text-white w-full bg-slate-600 hover:bg-bg-yellow-600 inter-bold font-1-5rem rounded-2xl py-5 dark:hover:bg-[#FF9119]/80 dark:focus:ring-[#FF9119]/40 mb-5">
                             <i class="fas fa-cart-arrow-down me-5"></i>
                             Buy Now
@@ -744,22 +987,22 @@
                     </div>
                 </div>
                 <div class="border-0 bg-white drop-shadow-lg rounded-2xl px-4 md:px-6 lg:px-8 py-8">
-                    <h1 class="bg-[url(img/bg-payment.png)] rounded-lg inter-regular text-black font-2rem my-3">
-                        COMMERCIAL License​
+                    <h1 class="bg-[#FF0000] rounded-2xl inter-regular text-white font-2rem my-3 py-3">
+                        PLR License​
                     </h1>
                     <div class="flex flex-row items-center inter-medium font-1rem mt-8 text-black">
-                        <i class="fas fa-check-circle me-5"></i>
+                        <i class="fas fa-check-circle me-5 text-[#08DC03]"></i>
                         <h3 class="text-start">
                             You can use the product in your own Commercial projects and projects you create for clients.
                         </h3>
                     </div>
                     <div class="flex flex-row items-center inter-medium font-1rem mt-3 text-black">
-                        <i class="fas fa-check-circle me-5"></i>
+                        <i class="fas fa-check-circle me-5 text-[#08DC03]"></i>
                         <h3 class="text-start">
                             You can use the product in your own Commercial projects and projects you create for clients.
                         </h3>
                     </div>
-                    <h1 class="bg-[url(img/bg-payment-2.png)] rounded-lg inter-medium font-2rem my-8">
+                    <h1 class="bg-white border-2 border-black rounded-2xl inter-medium text-black font-2rem my-8 py-3">
                         Normal Price <span class="line-through">$37</span>
                     </h1>
                     <h2 class="inter-regular font-1-2rem text-center text-black">
@@ -770,11 +1013,12 @@
                         <h3 class="line-through">
                             Regular Price: $27
                         </h3>
-                        <h3>
+                        <h3 class="inter-semibold text-[#FF0404] font-2-5rem">
                             Today: $19
                         </h3>
                     </div>
-                    <div class="flex flex-col items-center">
+                    <hr>
+                    <div class="flex flex-col items-center mt-5">
                         <button type="button" class="text-white w-full bg-slate-600 hover:bg-bg-yellow-600 inter-bold font-1-5rem rounded-2xl py-5 dark:hover:bg-[#FF9119]/80 dark:focus:ring-[#FF9119]/40 mb-5">
                             <i class="fas fa-cart-arrow-down me-5"></i>
                             Buy Now
@@ -783,6 +1027,12 @@
                     </div>
                 </div>
             </div>
+
+            <h4 class="font-1-5rem inter-regular mb-24">
+                You Must HURRY..!!<br> 
+                <span class="inter-light">The 50% Discount only available for 5 Days During The Launch Event!</span> <br>
+                After 5 Days... Discount Will Be REMOVED!!
+            </h4>
         </div>
     </div>
 
@@ -790,7 +1040,11 @@
         <div class="flex flex-col items-center justify-center text-center py-16">
             <h1 class="inter-extrabold font-3rem text-white">
                 F.A.Q <br>
-                <span class="inter-regular font-2rem">Frequently Asked Questions</span>
+                <span class="inter-light font-2rem">
+                    <span class="inter-medium">F</span>requently
+                    <span class="inter-medium">A</span>sked
+                    <span class="inter-medium">Q</span>uestions
+                </span>
             </h1>
 
             <?php

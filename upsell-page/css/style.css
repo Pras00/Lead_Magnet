@@ -92,7 +92,9 @@
         width: 90%;
     }
 
-
+    .bg-rental-2 {
+        background-size: cover;
+    }
 }
 
 @media (min-width: 768px) {
@@ -142,6 +144,11 @@
         width: 50%;
     }
 
+    .bg-rental-2 {
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+
 }
 
 .bg-1 {
@@ -162,8 +169,12 @@
     background-image:
         linear-gradient( rgba(255, 255, 255, 0.3), rgba(53, 44, 232, 0.8),  rgba(30, 25, 130, 1)),
         url(../img/bg-3.png);
-
 }
+
+.bg-5 {
+    background-image: linear-gradient(to left, rgba(53, 44, 232, 1), rgba(255, 255, 255, 0.3));
+}
+
 
 .bg-4 {
     background-image: url(../img/bg-3.png);
