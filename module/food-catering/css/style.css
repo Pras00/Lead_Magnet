@@ -84,7 +84,7 @@
     }
 
     #headline-container {
-        margin: 0 155px 0 155px;
+        margin: 0 155px 35px 155px;
         padding: 15px 95px 15px 95px;
     }
 
@@ -136,7 +136,6 @@
     background-color: white;
     border-radius: 25px;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
-    margin-bottom: 35px;
 }
 
 #title {
