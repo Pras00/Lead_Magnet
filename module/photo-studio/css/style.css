@@ -24,8 +24,11 @@
     #headline {
         text-align: center;
         font-size: 2rem;
-        width: 90%;
-        margin-top: 45px;
+    }
+
+    #headline-container {
+        margin: 25px;
+        padding: 15px;
     }
 
     .content {
@@ -79,6 +82,11 @@
         text-align: center;
         font-size: 2.5rem;
     }
+    
+    #headline-container {
+        margin: 0 155px 0 155px;
+        padding: 15px 95px 15px 95px;
+    }
 
     .content {
         display: flex;
@@ -125,11 +133,17 @@
     background-clip: text;
 }
 
+#headline-container {
+    background-color: white;
+    border-radius: 25px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
+}
+
 #title {
     font-family: "Poppins", sans-serif;
     font-weight: 700;
     font-style: normal;
-    color: black;
+    color: white;
     text-align: center;
 }
 
@@ -137,7 +151,7 @@
     font-family: "Poppins", sans-serif;
     font-weight: 300;
     font-style: normal;
-    color:black;
+    color:white;
     text-align: justify;
     font-size: 1rem;
 }
@@ -146,7 +160,7 @@ form {
     font-family: "Poppins", sans-serif;
     font-weight: 600;
     font-style: normal;
-    color: black;
+    color: white;
     text-align: center;
     font-size: 1rem;
 }
@@ -169,7 +183,7 @@ button {
 }
 
 button:hover {
-    background-color:seagreen;
+    background-color:#3E5646;
 }
 
 input {
