@@ -194,6 +194,12 @@
     background-image: url(../img/bg-3.png);
 }
 
+.bg-6 {
+    background-image: url(../img/bg-4.png);
+    background-size: cover;
+    background-position: center;
+}
+
 .bg-step-1 {
     background-image: url(../img/bg-step.png);
     background-size: cover;

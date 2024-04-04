@@ -329,7 +329,7 @@
                 </div>
             </div>
 
-            <div class="col-span-1">
+            <div class="col-span-1 order-first md:order-last">
                 <img class="img ms-0 md:ms-16" src="img/mockup-food.png" alt="">
             </div>
         </div>
@@ -338,10 +338,10 @@
         </div>
     </div>
 
-    <div class="bg-3 container-lg p-5 md:p-16">
+    <div class="bg-6 container-lg p-5 md:p-16">
         <div class="flex flex-row items-center text-center">
-            <img src="img/arrow-right.png" alt="" class="w-[40px] md:w-[4%]">
-            <h1 class="inter-regular font-2-5rem ms-5">
+            <img src="img/arrow-right-2.png" alt="" class="w-[40px] md:w-[4%]">
+            <h1 class="inter-regular font-2-5rem ms-5 text-white">
                 Pet Shop
             </h1>
         </div>
@@ -389,7 +389,7 @@
                 </div>
             </div>
 
-            <div class="col-span-1">
+            <div class="col-span-1 order-first md:order-last">
                 <img class="img ms-0 md:ms-16" src="img/mockup-bakery.png" alt="">
             </div>
         </div>
@@ -398,10 +398,10 @@
         </div>
     </div>
 
-    <div class="bg-3 container-lg p-5 md:p-16">
+    <div class="bg-6 container-lg p-5 md:p-16">
         <div class="flex flex-row items-center text-center">
-            <img src="img/arrow-right.png" alt="" class="w-[40px] md:w-[4%]">
-            <h1 class="inter-regular font-2-5rem ms-5">
+            <img src="img/arrow-right-2.png" alt="" class="w-[40px] md:w-[4%]">
+            <h1 class="inter-regular font-2-5rem ms-5 text-white">
                 Souvenir
             </h1>
         </div>
@@ -449,7 +449,7 @@
                 </div>
             </div>
 
-            <div class="col-span-1">
+            <div class="col-span-1 order-first md:order-last">
                 <img class="img ms-0 md:ms-16" src="img/mockup-florist.png" alt="">
             </div>
         </div>
@@ -458,10 +458,10 @@
         </div>
     </div>
 
-    <div class="bg-3 container-lg p-5 md:p-16">
+    <div class="bg-6 container-lg p-5 md:p-16">
         <div class="flex flex-row items-center text-center">
-            <img src="img/arrow-right.png" alt="" class="w-[40px] md:w-[4%]">
-            <h1 class="inter-regular font-2-5rem ms-5">
+            <img src="img/arrow-right-2.png" alt="" class="w-[40px] md:w-[4%]">
+            <h1 class="inter-regular font-2-5rem ms-5 text-white">
                 Coffe Shop
             </h1>
         </div>
@@ -509,7 +509,7 @@
                 </div>
             </div>
 
-            <div class="col-span-1">
+            <div class="col-span-1 order-first md:order-last">
                 <img class="img ms-0 md:ms-16" src="img/mockup-barber.png" alt="">
             </div>
         </div>
@@ -518,10 +518,10 @@
         </div>
     </div>
 
-    <div class="bg-3 container-lg p-5 md:p-16">
+    <div class="bg-6 container-lg p-5 md:p-16">
         <div class="flex flex-row items-center text-center">
-            <img src="img/arrow-right.png" alt="" class="w-[40px] md:w-[4%]">
-            <h1 class="inter-regular font-2-5rem ms-5">
+            <img src="img/arrow-right-2.png" alt="" class="w-[40px] md:w-[4%]">
+            <h1 class="inter-regular font-2-5rem ms-5 text-white">
                 Nails Art
             </h1>
         </div>
@@ -569,7 +569,7 @@
                 </div>
             </div>
 
-            <div class="col-span-1">
+            <div class="col-span-1 order-first md:order-last">
                 <img class="img ms-0 md:ms-16" src="img/mockup-toy.png" alt="">
             </div>
         </div>
@@ -578,10 +578,10 @@
         </div>
     </div>
 
-    <div class="bg-3 container-lg p-5 md:p-16">
+    <div class="bg-6 container-lg p-5 md:p-16">
         <div class="flex flex-row items-center text-center">
-            <img src="img/arrow-right.png" alt="" class="w-[40px] md:w-[4%]">
-            <h1 class="inter-regular font-2-5rem ms-5">
+            <img src="img/arrow-right-2.png" alt="" class="w-[40px] md:w-[4%]">
+            <h1 class="inter-regular font-2-5rem ms-5 text-white">
                 Office Stationary Shop
             </h1>
         </div>
