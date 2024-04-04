@@ -6,7 +6,7 @@
 }
 
 @media (max-width: 576px) {
-    /*HP*/
+    /*HP*/ 
 
     .container {
         background-image: url(../img/bg.jpg);
@@ -24,8 +24,11 @@
     #headline {
         text-align: center;
         font-size: 2rem;
-        width: 90%;
-        margin-top: 45px;
+    }
+
+    #headline-container {
+        margin: 25px;
+        padding: 15px;
     }
 
     .content {
@@ -80,6 +83,10 @@
         font-size: 2.5rem;
     }
 
+    #headline-container {
+        margin: 0 155px 15px 155px;
+        padding: 15px 95px 15px 95px;
+    }
     .content {
         display: flex;
         align-items: center;
@@ -124,11 +131,17 @@
     background-clip: text;
 }
 
+#headline-container {
+    background-color: white;
+    border-radius: 25px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
+}
+
 #title {
     font-family: "Poppins", sans-serif;
     font-weight: 700;
     font-style: normal;
-    color: black;
+    color: #3b322c;
     text-align: center;
 }
 
@@ -136,7 +149,7 @@
     font-family: "Poppins", sans-serif;
     font-weight: 300;
     font-style: normal;
-    color: black;
+    color: #3b322c;
     text-align: justify;
     font-size: 1rem;
 }
@@ -148,6 +161,10 @@ form {
     color: black;
     text-align: center;
     font-size: 1rem;
+}
+
+form > h3 {
+    color: #3b322c;
 }
 
 input {
@@ -168,7 +185,7 @@ button {
 }
 
 button:hover {
-    background-color: rgb(114, 110, 112);
+    background-color: #ef40a0;
 }
 
 input {

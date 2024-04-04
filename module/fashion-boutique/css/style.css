@@ -3,7 +3,7 @@
 * {
     margin: 0;
     padding: 0;
-}
+} 
 
 @media (max-width: 576px) {
     /*HP*/
@@ -24,8 +24,11 @@
     #headline {
         text-align: center;
         font-size: 2rem;
-        width: 90%;
-        margin-top: 45px;
+    }
+
+    #headline-container {
+        margin: 25px;
+        padding: 15px;
     }
 
     .content {
@@ -80,6 +83,11 @@
         font-size: 2.5rem;
     }
 
+    #headline-container {
+        margin: 0 155px 35px 155px;
+        padding: 15px 95px 15px 95px;
+    }
+
     .content {
         display: flex;
         align-items: center;
@@ -124,11 +132,17 @@
     background-clip: text;
 }
 
+#headline-container {
+    background-color: white;
+    border-radius: 25px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
+}
+
 #title {
     font-family: "Poppins", sans-serif;
     font-weight: 700;
     font-style: normal;
-    color: black;
+    color: #3C2E28;
     text-align: center;
 }
 
@@ -136,7 +150,7 @@
     font-family: "Poppins", sans-serif;
     font-weight: 300;
     font-style: normal;
-    color: black;
+    color: #3C2E28;
     text-align: justify;
     font-size: 1rem;
 }
@@ -150,6 +164,10 @@ form {
     font-size: 1rem;
 }
 
+form > h3 {
+    color: #3C2E28;
+}
+
 input {
     font-family: "Poppins", sans-serif;
     border: 1px solid #ccc;
@@ -160,7 +178,7 @@ input {
 button {
     font-family: "Poppins", sans-serif;
     font-weight: 600;
-    background-color: #a85f00;
+    background-color: #b66701;
     color: white;
     border: none;
     border-radius: 10px;
@@ -168,7 +186,7 @@ button {
 }
 
 button:hover {
-    background-color: rgb(218, 167, 0);
+    background-color: #dc7d02;
 }
 
 input {

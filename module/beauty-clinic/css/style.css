@@ -3,7 +3,7 @@
 * {
     margin: 0;
     padding: 0;
-}
+} 
 
 @media (max-width: 576px) {
     /*HP*/
@@ -24,8 +24,11 @@
     #headline {
         text-align: center;
         font-size: 2rem;
-        width: 90%;
-        margin-top: 45px;
+    }
+
+    #headline-container {
+        margin: 25px;
+        padding: 15px;
     }
 
     .content {
@@ -80,6 +83,11 @@
         font-size: 2.5rem;
     }
 
+    #headline-container {
+        margin: 0 155px 35px 155px;
+        padding: 15px 95px 15px 95px;
+    }
+
     .content {
         display: flex;
         align-items: center;
@@ -119,9 +127,15 @@
     font-family: "Poppins", sans-serif;
     font-weight: 700;
     font-style: normal;
-    background-image: linear-gradient(144deg, #32726f, #478f94 50%, #ffffff);
+    background-image: linear-gradient(144deg, #32726f, #478f94 50%, #1a7873);
     color: transparent;
     background-clip: text;
+}
+
+#headline-container {
+    background-color: white;
+    border-radius: 25px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
 }
 
 #title {
@@ -168,9 +182,9 @@ button {
 }
 
 button:hover {
-    background-color: rgb(124, 122, 124);
+    background-color: #4da9b5;
 }
 
 input {
-    background-color: #d9d9d9;
+    background-color: white;
 }

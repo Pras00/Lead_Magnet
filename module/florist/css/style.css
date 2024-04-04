@@ -24,8 +24,11 @@
     #headline {
         text-align: center;
         font-size: 2rem;
-        width: 90%;
-        margin-top: 45px;
+    }
+
+    #headline-container {
+        margin: 25px;
+        padding: 15px;
     }
 
     .content {
@@ -80,6 +83,10 @@
         font-size: 2.5rem;
     }
 
+    #headline-container {
+        margin: 0 155px 35px 155px;
+        padding: 15px 95px 15px 95px;
+    }
     .content {
         display: flex;
         align-items: center;
@@ -119,16 +126,22 @@
     font-family: "Poppins", sans-serif;
     font-weight: 700;
     font-style: normal;
-    background-image: linear-gradient(144deg, #00c3f4, #114756, rgb(84, 37, 84));
+    background-image: linear-gradient(144deg, #8f6b61, #41322e, #78402f, #ca380c);
     color: transparent;
     background-clip: text;
+}
+
+#headline-container {
+    background-color: white;
+    border-radius: 25px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
 }
 
 #title {
     font-family: "Poppins", sans-serif;
     font-weight: 700;
     font-style: normal;
-    color: black;
+    color: white;
     text-align: center;
 }
 
@@ -136,7 +149,7 @@
     font-family: "Poppins", sans-serif;
     font-weight: 300;
     font-style: normal;
-    color: black;
+    color: white;
     text-align: justify;
     font-size: 1rem;
 }
@@ -150,6 +163,10 @@ form {
     font-size: 1rem;
 }
 
+form > h3 {
+    color: white;
+}
+
 input {
     font-family: "Poppins", sans-serif;
     border: 1px solid #ccc;
@@ -160,7 +177,7 @@ input {
 button {
     font-family: "Poppins", sans-serif;
     font-weight: 600;
-    background-color: #352CE8;
+    background-color: #b73d18;
     color: white;
     border: none;
     border-radius: 10px;
@@ -168,7 +185,7 @@ button {
 }
 
 button:hover {
-    background-color: rgb(57, 58, 113);
+    background-color: #de4b1e;
 }
 
 input {
