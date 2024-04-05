@@ -154,7 +154,7 @@
     }
 
     .img2 {
-        width: 40%;
+        width: 60%;
     }
 
     #btn-payment {
@@ -178,7 +178,7 @@
 
 .bg-2 {
     background-image:
-        linear-gradient(to right, rgba(30, 25, 130, 1), rgba(53, 44, 232, 1), rgba(255, 255, 255, 0)),
+        linear-gradient(to right, rgba(30, 25, 130, 1), rgba(53, 44, 232, 0.5)),
         url(../img/bg-2.png);
 }
 

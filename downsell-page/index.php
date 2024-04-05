@@ -23,7 +23,7 @@
                         </h3>
                         <h5 class="inter-medium font-1-5rem">
                             After this, You Won't See this Offer Again. So Read Every Word dan Decide on this Page Carefully! <br><br>
-                            Make sure to read every word carefully as this offer for Quotes Buddy 2.0 won't be available again after this.
+                            Make sure to read every word carefully as this offer for Lead Plus+ won't be available again after this.
                         </h5>
                     </div>
                 </div>
@@ -41,29 +41,72 @@
             <h1 class="inter-regular font-3rem mt-0 md:mt-12">
                 Upgrade to the Platinum Package and Get an Additional $10.00 Off for the Entire <span class="text-[#352CE8]">Lead Magnet</span> Package
             </h1>
-            <h3 class="inter-regular font-1-5rem my-12">
+            <h3 class="inter-regular font-1-5rem mt-12">
                 While you currently possess the
                 <span class="text-[#352CE8]"> Resell Right license, </span>
                 by upgrading to the 'Extended' Version <br> you get 
                 <span class="text-[#352CE8]">Private label right license (PLR) </span>
-                for Quotes Buddy 2.0,<br>you'll unlock the ability to Edit, Rebrand and Resell it, keeping all the profits.
+                for Lead Plus+,<br>you'll unlock the ability to Edit, Rebrand and Resell it, keeping all the profits.
             </h3>
 
-            <img class="p-5 img" src="img/BoxMockup3 2.png" alt="">
+            <img class="p-5 w-full md:w-[120%]" src="img/BoxMockup3 2.png" alt="">
 
-            <h3 class="inter-regular font-1-5rem my-12">
-                Take your social media presence to new heights with this extensive collection of <br>Static & Animated quote design templates, designed to captivate your audience.
+            <h3 class="inter-regular font-1-5rem mb-12">
+                Take your social media presence to new heights with this extensive collection of <br> <span class="text-[#352CE8]">Static & Animated quote design templates,</span> designed to captivate your audience.
                 <br><br>
-                With Quotes Buddy 2.0, you can utilize quotes to connect with your audience, <br>reflect your brand's values, and drive business success
+                With <span class="text-[#352CE8]">Lead Plus+</span>, you can utilize quotes to connect with your audience, <br>reflect your brand's values, and drive business success
             </h3>
-
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 grid-rows-3 gap-5 mx-4 md:mx-8 lg:mx-16 inter-regular text-white">
-                <div class="bg-card border-0 drop-shadow-lg rounded-2xl px-4 md:px-4 lg:px-5 py-3">
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 grid-rows-2 gap-4 mx-4 md:mx-8 lg:mx-16 inter-regular text-white">
+                <div class="bg-card border-0 drop-shadow-lg rounded-2xl px-4 md:px-4 lg:px-5 py-5">
                     <div class="flex items-center justify-center">
-                        <img class="w-[15%] md:w-[20%]" src="img/icon-lm-black.png" alt="">
+                        <img class="w-[15%]" src="img/icon-card1.png" alt="">
                     </div>
                     <h1 class="font-1-2rem my-3">
-                        Stunning Quote Varieties
+                        Easy-to-Use Landing Page (HTML)
+                    </h1>
+                    <h3 class="font-0-8rem">
+                        Pre-designed, high-converting landing page focused on capturing email leads. Easy customization options to match your branding and messaging.
+                    </h3>
+                </div>
+                <div class="bg-card border-0 drop-shadow-lg rounded-2xl px-4 md:px-4 lg:px-5 py-5">
+                    <div class="flex items-center justify-center">
+                        <img class="w-[15%]" src="img/icon-card2.png" alt="">
+                    </div>
+                    <h1 class="font-1-2rem my-3">
+                        Advanced Lead Capture Forms
+                    </h1>
+                    <h3 class="font-0-8rem">
+                        Create customized lead capture forms to gather essential customer information. Collect valuable data such as names, email addresses, phone numbers, and more to build a comprehensive and targeted database.
+                    </h3>
+                </div>
+                <div class="bg-card border-0 drop-shadow-lg rounded-2xl px-4 md:px-4 lg:px-5 py-5">
+                    <div class="flex items-center justify-center">
+                        <img class="w-[15%]" src="img/icon-card3.png" alt="">
+                    </div>
+                    <h1 class="font-1-2rem my-3">
+                        High-Quality E-book & Cover Content
+                    </h1>
+                    <h3 class="font-0-8rem">
+                        Professionally written e-books covering essential business topics. Topics include tutorials, tips and trick, etc.
+                    </h3>
+                </div>
+                <div class="bg-card border-0 drop-shadow-lg rounded-2xl px-4 md:px-4 lg:px-5 py-5">
+                    <div class="flex items-center justify-center">
+                        <img class="w-[15%]" src="img/icon-card4.png" alt="">
+                    </div>
+                    <h1 class="font-1-2rem my-3">
+                        Downloadable Resources Section
+                    </h1>
+                    <h3 class="font-0-8rem">
+                        Easy-to-access download links or buttons for e-book content. Option to add additional resources such as templates, checklists, or video tutorials.
+                    </h3>
+                </div>
+                <div class="bg-card border-0 drop-shadow-lg rounded-2xl px-4 md:px-4 lg:px-5 py-5">
+                    <div class="flex items-center justify-center">
+                        <img class="w-[15%]" src="img/icon-card5.png" alt="">
+                    </div>
+                    <h1 class="font-1-2rem my-3">
+                        Mobile-Responsive Design
                     </h1>
                     <h3 class="font-0-8rem">
                         Discover a diverse range of Static & Animated quote templates in Quotes Buddy 2.0, perfect for crafting captivating posts across your social media platforms.
@@ -71,145 +114,81 @@
                 </div>
                 <div class="bg-card border-0 drop-shadow-lg rounded-2xl px-4 md:px-4 lg:px-5 py-5">
                     <div class="flex items-center justify-center">
-                        <img class="w-[15%] md:w-[20%]" src="img/icon-lm-black.png" alt="">
+                        <img class="w-[15%]" src="img/icon-card6.png" alt="">
                     </div>
                     <h1 class="font-1-2rem my-3">
-                        Stunning Quote Varieties
+                        Interesting Website Content
                     </h1>
                     <h3 class="font-0-8rem">
-                        Discover a diverse range of Static & Animated quote templates in Quotes Buddy 2.0, perfect for crafting captivating posts across your social media platforms.
-                    </h3>
-                </div>
-                <div class="bg-card border-0 drop-shadow-lg rounded-2xl px-4 md:px-4 lg:px-5 py-3">
-                    <div class="flex items-center justify-center">
-                        <img class="w-[15%] md:w-[20%]" src="img/icon-lm-black.png" alt="">
-                    </div>
-                    <h1 class="font-1-2rem my-3">
-                        Stunning Quote Varieties
-                    </h1>
-                    <h3 class="font-0-8rem">
-                        Discover a diverse range of Static & Animated quote templates in Quotes Buddy 2.0, perfect for crafting captivating posts across your social media platforms.
-                    </h3>
-                </div>
-                <div class="bg-card border-0 drop-shadow-lg rounded-2xl px-4 md:px-4 lg:px-5 py-3">
-                    <div class="flex items-center justify-center">
-                        <img class="w-[15%] md:w-[20%]" src="img/icon-lm-black.png" alt="">
-                    </div>
-                    <h1 class="font-1-2rem my-3">
-                        Stunning Quote Varieties
-                    </h1>
-                    <h3 class="font-0-8rem">
-                        Discover a diverse range of Static & Animated quote templates in Quotes Buddy 2.0, perfect for crafting captivating posts across your social media platforms.
-                    </h3>
-                </div>
-                <div class="bg-card border-0 drop-shadow-lg rounded-2xl px-4 md:px-4 lg:px-5 py-3">
-                    <div class="flex items-center justify-center">
-                        <img class="w-[15%] md:w-[20%]" src="img/icon-lm-black.png" alt="">
-                    </div>
-                    <h1 class="font-1-2rem my-3">
-                        Stunning Quote Varieties
-                    </h1>
-                    <h3 class="font-0-8rem">
-                        Discover a diverse range of Static & Animated quote templates in Quotes Buddy 2.0, perfect for crafting captivating posts across your social media platforms.
-                    </h3>
-                </div>
-                <div class="bg-card border-0 drop-shadow-lg rounded-2xl px-4 md:px-4 lg:px-5 py-3">
-                    <div class="flex items-center justify-center">
-                        <img class="w-[15%] md:w-[20%]" src="img/icon-lm-black.png" alt="">
-                    </div>
-                    <h1 class="font-1-2rem my-3">
-                        Stunning Quote Varieties
-                    </h1>
-                    <h3 class="font-0-8rem">
-                        Discover a diverse range of Static & Animated quote templates in Quotes Buddy 2.0, perfect for crafting captivating posts across your social media platforms.
-                    </h3>
-                </div>
-                <div class="bg-card border-0 drop-shadow-lg rounded-2xl px-4 md:px-4 lg:px-5 py-3">
-                    <div class="flex items-center justify-center">
-                        <img class="w-[15%] md:w-[20%]" src="img/icon-lm-black.png" alt="">
-                    </div>
-                    <h1 class="font-1-2rem my-3">
-                        Stunning Quote Varieties
-                    </h1>
-                    <h3 class="font-0-8rem">
-                        Discover a diverse range of Static & Animated quote templates in Quotes Buddy 2.0, perfect for crafting captivating posts across your social media platforms.
-                    </h3>
-                </div>
-                <div class="bg-card border-0 drop-shadow-lg rounded-2xl px-4 md:px-4 lg:px-5 py-3">
-                    <div class="flex items-center justify-center">
-                        <img class="w-[15%] md:w-[20%]" src="img/icon-lm-black.png" alt="">
-                    </div>
-                    <h1 class="font-1-2rem my-3">
-                        Stunning Quote Varieties
-                    </h1>
-                    <h3 class="font-0-8rem">
-                        Discover a diverse range of Static & Animated quote templates in Quotes Buddy 2.0, perfect for crafting captivating posts across your social media platforms.
-                    </h3>
-                </div>
-                <div class="bg-card border-0 drop-shadow-lg rounded-2xl px-4 md:px-4 lg:px-5 py-3">
-                    <div class="flex items-center justify-center">
-                        <img class="w-[15%] md:w-[20%]" src="img/icon-lm-black.png" alt="">
-                    </div>
-                    <h1 class="font-1-2rem my-3">
-                        Stunning Quote Varieties
-                    </h1>
-                    <h3 class="font-0-8rem">
-                        Discover a diverse range of Static & Animated quote templates in Quotes Buddy 2.0, perfect for crafting captivating posts across your social media platforms.
+                        Lead plus+ can help improve your website with interesting content.
                     </h3>
                 </div>
             </div>
+
         </div>
     </div>
 
     <div class="container-lg bg-3">
         <div class="flex flex-col items-center justify-center text-center p-3 py-12">
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-4 mx-0 md:mx-8 lg:mx-16 p-3 md:p-16 text-white">
-                <div class="border-0 bg-white drop-shadow-lg rounded-2xl px-4 md:px-6 lg:px-0">
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-4 mx-0 md:mx-8 lg:mx-16 p-3 text-white">
+                <div class="border-0 bg-white drop-shadow-lg rounded-2xl px-4 md:px-6 lg:px-0 h-full md:h-[70%]">
                     <h1 class="bg-payment rounded-lg inter-regular text-white font-2rem p-5">
                         Your Current Package
                     </h1>
 
-                    <div class="p-8 text-black">
-                        <div class="flex flex-row items-center justify-center mb-3">
+                    <div class="p-3 md:p-8 text-black">
+                        <div class="flex flex-row items-center justify-start mb-3">
                             <img class="w-[10%] md:w-[5%]" src="img/checklist.png" alt="">
                             <h3 class="font-0-8rem inter-regular ms-3">
-                                25 Friendship - Reels/Feed Templates (@$27) = $675 Value
+                                Bakery - E-book & Cover/Landing Page (@$27) = $675 Value
                             </h3>
                         </div>
-                        <div class="flex flex-row items-center justify-center mb-3">
+                        <div class="flex flex-row items-center justify-start mb-3">
                             <img class="w-[10%] md:w-[5%]" src="img/checklist.png" alt="">
                             <h3 class="font-0-8rem inter-regular ms-3">
-                                25 Friendship - Reels/Feed Templates (@$27) = $675 Value
+                                Coffee Shop - E-book & Cover/Landing Page (@$27) = $675 Value
                             </h3>
                         </div>
-                        <div class="flex flex-row items-center justify-center mb-3">
+                        <div class="flex flex-row items-center justify-start mb-3">
                             <img class="w-[10%] md:w-[5%]" src="img/checklist.png" alt="">
                             <h3 class="font-0-8rem inter-regular ms-3">
-                                25 Friendship - Reels/Feed Templates (@$27) = $675 Value
+                                Barbershop - E-book & Cover/Landing Page (@$27) = $675 Value
                             </h3>
                         </div>
-                        <div class="flex flex-row items-center justify-center mb-3">
+                        <div class="flex flex-row items-center justify-start mb-3">
                             <img class="w-[10%] md:w-[5%]" src="img/checklist.png" alt="">
                             <h3 class="font-0-8rem inter-regular ms-3">
-                                25 Friendship - Reels/Feed Templates (@$27) = $675 Value
+                                Florist - E-book & Cover/Landing Page (@$27) = $675 Value
                             </h3>
                         </div>
-                        <div class="flex flex-row items-center justify-center mb-3">
+                        <div class="flex flex-row items-center justify-start mb-3">
                             <img class="w-[10%] md:w-[5%]" src="img/checklist.png" alt="">
                             <h3 class="font-0-8rem inter-regular ms-3">
-                                25 Friendship - Reels/Feed Templates (@$27) = $675 Value
+                                Toy Store - E-book & Cover/Landing Page (@$27) = $675 Value
                             </h3>
                         </div>
-                        <div class="flex flex-row items-center justify-center mb-3">
+                        <div class="flex flex-row items-center justify-start mb-3">
                             <img class="w-[10%] md:w-[5%]" src="img/checklist.png" alt="">
                             <h3 class="font-0-8rem inter-regular ms-3">
-                                25 Friendship - Reels/Feed Templates (@$27) = $675 Value
+                                Hair Salon - E-book & Cover/Landing Page (@$27) = $675 Value
                             </h3>
                         </div>
-                        <div class="flex flex-row items-center justify-center mb-3">
+                        <div class="flex flex-row items-center justify-start mb-3">
                             <img class="w-[10%] md:w-[5%]" src="img/checklist.png" alt="">
                             <h3 class="font-0-8rem inter-regular ms-3">
-                                25 Friendship - Reels/Feed Templates (@$27) = $675 Value
+                                Office stationery shop - E-book & Cover/Landing Page (@$27) = $675 Value
+                            </h3>
+                        </div>
+                        <div class="flex flex-row items-center justify-start mb-3">
+                            <img class="w-[10%] md:w-[5%]" src="img/checklist.png" alt="">
+                            <h3 class="font-0-8rem inter-regular ms-3">
+                                Pet Shop - E-book & Cover/Landing Page (@$27) = $675 Value
+                            </h3>
+                        </div>
+                        <div class="flex flex-row items-center justify-start mb-3">
+                            <img class="w-[10%] md:w-[5%]" src="img/checklist.png" alt="">
+                            <h3 class="font-0-8rem inter-regular ms-3">
+                                Food Catering - E-book & Cover/Landing Page (@$27) = $675 Value
                             </h3>
                         </div>
 
@@ -225,47 +204,95 @@
                         NEW Extended Package
                     </h1>
 
-                    <div class="p-8 text-black">
-                        <div class="flex flex-row items-center justify-center mb-3">
+                    <div class="p-3 md:p-8 text-black">
+                        <div class="flex flex-row items-center justify-start mb-3">
                             <img class="w-[10%] md:w-[5%]" src="img/checklist.png" alt="">
                             <h3 class="font-0-8rem inter-regular ms-3">
-                                25 Friendship - Reels/Feed Templates (@$27) = $675 Value
+                                Gym - E-book & Cover/Landing Page (@$27) = $675 Value
                             </h3>
                         </div>
-                        <div class="flex flex-row items-center justify-center mb-3">
+                        <div class="flex flex-row items-center justify-start mb-3">
                             <img class="w-[10%] md:w-[5%]" src="img/checklist.png" alt="">
                             <h3 class="font-0-8rem inter-regular ms-3">
-                                25 Friendship - Reels/Feed Templates (@$27) = $675 Value
+                                Electronic Store - E-book & Cover/Landing Page (@$27) = $675 Value
                             </h3>
                         </div>
-                        <div class="flex flex-row items-center justify-center mb-3">
+                        <div class="flex flex-row items-center justify-start mb-3">
                             <img class="w-[10%] md:w-[5%]" src="img/checklist.png" alt="">
                             <h3 class="font-0-8rem inter-regular ms-3">
-                                25 Friendship - Reels/Feed Templates (@$27) = $675 Value
+                                Outdoor Rental - E-book & Cover/Landing Page (@$27) = $675 Value
                             </h3>
                         </div>
-                        <div class="flex flex-row items-center justify-center mb-3">
+                        <div class="flex flex-row items-center justify-start mb-3">
                             <img class="w-[10%] md:w-[5%]" src="img/checklist.png" alt="">
                             <h3 class="font-0-8rem inter-regular ms-3">
-                                25 Friendship - Reels/Feed Templates (@$27) = $675 Value
+                                Cosmetics - E-book & Cover/Landing Page (@$27) = $675 Value
                             </h3>
                         </div>
-                        <div class="flex flex-row items-center justify-center mb-3">
+                        <div class="flex flex-row items-center justify-start mb-3">
                             <img class="w-[10%] md:w-[5%]" src="img/checklist.png" alt="">
                             <h3 class="font-0-8rem inter-regular ms-3">
-                                25 Friendship - Reels/Feed Templates (@$27) = $675 Value
+                                Souvenir - E-book & Cover/Landing Page (@$27) = $675 Value
                             </h3>
                         </div>
-                        <div class="flex flex-row items-center justify-center mb-3">
+                        <div class="flex flex-row items-center justify-start mb-3">
                             <img class="w-[10%] md:w-[5%]" src="img/checklist.png" alt="">
                             <h3 class="font-0-8rem inter-regular ms-3">
-                                25 Friendship - Reels/Feed Templates (@$27) = $675 Value
+                                Seamstress - E-book & Cover/Landing Page (@$27) = $675 Value
                             </h3>
                         </div>
-                        <div class="flex flex-row items-center justify-center mb-3">
+                        <div class="flex flex-row items-center justify-start mb-3">
                             <img class="w-[10%] md:w-[5%]" src="img/checklist.png" alt="">
                             <h3 class="font-0-8rem inter-regular ms-3">
-                                25 Friendship - Reels/Feed Templates (@$27) = $675 Value
+                                Food Truck - E-book & Cover/Landing Page (@$27) = $675 Value
+                            </h3>
+                        </div>
+                        <div class="flex flex-row items-center justify-start mb-3">
+                            <img class="w-[10%] md:w-[5%]" src="img/checklist.png" alt="">
+                            <h3 class="font-0-8rem inter-regular ms-3">
+                                Vegetable Store - E-book & Cover/Landing Page (@$27) = $675 Value
+                            </h3>
+                        </div>
+                        <div class="flex flex-row items-center justify-start mb-3">
+                            <img class="w-[10%] md:w-[5%]" src="img/checklist.png" alt="">
+                            <h3 class="font-0-8rem inter-regular ms-3">
+                                Fashion Boutique - E-book & Cover/Landing Page (@$27) = $675 Value
+                            </h3>
+                        </div>
+                        <div class="flex flex-row items-center justify-start mb-3">
+                            <img class="w-[10%] md:w-[5%]" src="img/checklist.png" alt="">
+                            <h3 class="font-0-8rem inter-regular ms-3">
+                                Bookstore - E-book & Cover/Landing Page (@$27) = $675 Value
+                            </h3>
+                        </div>
+                        <div class="flex flex-row items-center justify-start mb-3">
+                            <img class="w-[10%] md:w-[5%]" src="img/checklist.png" alt="">
+                            <h3 class="font-0-8rem inter-regular ms-3">
+                                Photo Studio - E-book & Cover/Landing Page (@$27) = $675 Value
+                            </h3>
+                        </div>
+                        <div class="flex flex-row items-center justify-start mb-3">
+                            <img class="w-[10%] md:w-[5%]" src="img/checklist.png" alt="">
+                            <h3 class="font-0-8rem inter-regular ms-3">
+                                Beauty Clinic - E-book & Cover/Landing Page (@$27) = $675 Value
+                            </h3>
+                        </div>
+                        <div class="flex flex-row items-center justify-start mb-3">
+                            <img class="w-[10%] md:w-[5%]" src="img/checklist.png" alt="">
+                            <h3 class="font-0-8rem inter-regular ms-3">
+                                Thrifting - E-book & Cover/Landing Page (@$27) = $675 Value
+                            </h3>
+                        </div>
+                        <div class="flex flex-row items-center justify-start mb-3">
+                            <img class="w-[10%] md:w-[5%]" src="img/checklist.png" alt="">
+                            <h3 class="font-0-8rem inter-regular ms-3">
+                                Fruit Store - E-book & Cover/Landing Page (@$27) = $675 Value
+                            </h3>
+                        </div>
+                        <div class="flex flex-row items-center justify-start mb-3">
+                            <img class="w-[10%] md:w-[5%]" src="img/checklist.png" alt="">
+                            <h3 class="font-0-8rem inter-regular ms-3">
+                                Music Store - E-book & Cover/Landing Page (@$27) = $675 Value
                             </h3>
                         </div>
 
@@ -282,10 +309,9 @@
 
     <div class="container-lg bg-2">
         <div class="flex flex-col items-center justify-center text-center py-12">
-            <h2 class="inter-regular font-2-5rem">
-                Why Upgrade to <span class="text-[#352CE8]">LEAD MAGNET</span> <br>Extended Version?
+            <h2 class="inter-regular font-2-5rem w-full md:w-[50%]">
+                Why Upgrade to <span class="text-[#352CE8]">LEAD MAGNET</span> Premium Version?
             </h2>
-
             <img class="w-[80%] md:w-[30%] my-8" src="img/img-why.png" alt="">
 
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-1 grid-rows-3 gap-5 my-16 mx-0 md:mx-8 lg:mx-16 text-black w-[80%]">
@@ -324,8 +350,8 @@
                 </div>
                 <div class="border-0 bg-[#352CE8] drop-shadow-lg rounded-2xl px-4 md:px-6 lg:px-12 py-8 w-full flex flex-col md:flex-row items-center justify-start">
                     <div class="flex flex-col items-center justify-center inter-regular text-white">
-                        <h3 class="font-1-2rem text-center">
-                            Businesses are willing to invest significantly in social media content, especially for engaging feed and story posts. With a diverse range of quote templates in different sizes, you can offer a variety of content options to your clients, leading to increased profits.
+                        <h3 class="font-1-5rem text-center">
+                            This is the cost for a single quote templatein Lead Plus+ with Developer / commercial license.
                         </h3>
                         <img class="w-[10%] md:w-[5%] mt-5" src="img/arrow-down-2.png" alt="">
                     </div>
@@ -347,7 +373,7 @@
     <div class="bg-4 container-lg p-5 md:p-16">
         <div class="flex flex-row items-center text-center">
             <img src="img/arrow-right.png" alt="" class="w-[40px] md:w-[4%]">
-            <h1 class="inter-regular font-2rem ms-5">
+            <h1 class="inter-regular font-2-5rem ms-5">
                 Outdoor Gear Rental Shops
             </h1>
         </div>
@@ -355,25 +381,463 @@
             <div class="col-span-1 flex justify-center items-center">
                 <div class="grid grid-cols-1 gap-5">
                     <div class="bg-rental py-12 px-5 text-white">
-                        <h1 class="inter-medium font-1-5rem mb-5">Peningkatan Prospek</h1>
-                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
+                        <h1 class="inter-medium font-1-5rem mb-5">Landing Page</h1>
+                        <img src="img/rental-benefit.png" alt="">
                     </div>
-                    <div class="bg-rental-2 py-12 px-5 text-black">
-                        <h1 class="inter-medium font-1-5rem mb-5">Pengumpulan Data</h1>
-                        <p class="inter-regular font-1rem">Dengan memiliki lead magnet yang menarik dan relevan, Anda dapat menarik perhatian calon pelanggan yang tertarik dengan penyewaan alat outdoor. Ini dapat membantu Anda meningkatkan jumlah prospek potensial yang tertarik dengan layanan Anda.</p>
+                    <div class="bg-rental-2 py-8 px-5 text-black">
+                        <h1 class="inter-medium font-1-5rem mb-3">Outdoor Gear Rental Shops</h1>
+                        <p class="inter-regular font-0-8rem text-justify">
+                            "The e-book 'Comprehensive Guide to Renting Outdoor Gear for Various Activities' is a complete guide for adventurers who want to explore nature by renting outdoor equipment. This book provides detailed information about the types of equipment needed for each activity, tips for choosing a trusted rental provider, and a practical guide to preparing yourself before leaving. This e-book is a trusted resource for anyone who wants to enjoy outdoor adventures without having to have all their own equipment."
+                        </p>
                     </div>
                 </div>
             </div>
 
-            <div class="col-span-1">
-                <img src="img/BoxMockup 4.png" alt="">
+            <div class="col-span-1 order-first md:order-last">
+                <img class="img ms-0 md:ms-16" src="img/mockup-rental.png" alt="">
             </div>
         </div>
         <div class="flex justify-center">
-            <img class="w-[100%] md:w-[90%]" src="img/preview.png" alt="">
+            <img class="w-[100%] md:w-[90%]" src="img/produk1.png" alt="">
         </div>
     </div>
 
+    <div class="bg-5 container-lg p-5 md:p-16">
+        <div class="flex flex-row items-center text-center">
+            <img src="img/arrow-right.png" alt="" class="w-[40px] md:w-[4%]">
+            <h1 class="inter-regular font-2-5rem ms-5">
+                Electronic Store
+            </h1>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular my-12">
+            <div class="col-span-1">
+                <img class="img" src="img/mockup-elektronik.png" alt="">
+            </div>
+            <div class="col-span-1 flex justify-center items-center">
+                <div class="grid grid-cols-1 gap-5">
+                    <div class="bg-rental py-12 px-5 text-white">
+                        <h1 class="inter-medium font-1-5rem mb-5">Landing Page</h1>
+                        <img src="img/elektronik-benefit.png" alt="">
+                    </div>
+                    <div class="bg-rental-2 py-12 px-5 text-black">
+                        <h1 class="inter-medium font-1-5rem mb-3">Electronic Store</h1>
+                        <p class="inter-regular font-0-8rem text-justify">
+                            "Electronic Paradise: Exploring the Newest World of Technology" is a comprehensive eBook delving into the forefront of technological innovation. Covering diverse topics from AI to blockchain, it offers insightful analyses and practical applications for both tech enthusiasts and novices alike. With engaging writing and up-to-date information, this book serves as an indispensable guide to navigating the ever-evolving landscape of modern technology.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="flex justify-center">
+            <img class="w-[100%] md:w-[90%]" src="img/produk2.png" alt="">
+        </div>
+    </div>
+
+    <div class="bg-4 container-lg p-5 md:p-16">
+        <div class="flex flex-row items-center text-center">
+            <img src="img/arrow-right.png" alt="" class="w-[40px] md:w-[4%]">
+            <h1 class="inter-regular font-2-5rem ms-5">
+                Cosmetic Store
+            </h1>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular my-12">
+            <div class="col-span-1 flex justify-center items-center">
+                <div class="grid grid-cols-1 gap-5">
+                    <div class="bg-rental py-12 px-5 text-white">
+                        <h1 class="inter-medium font-1-5rem mb-5">Landing Page</h1>
+                        <img src="img/kosmetik-benefit.png" alt="">
+                    </div>
+                    <div class="bg-rental-2 py-8 px-5 text-black">
+                        <h1 class="inter-medium font-1-5rem mb-5">Cosmetic Store</h1>
+                        <p class="inter-regular font-0-8rem text-justify">
+                            "Beyond Beautiful: Enhance Your Look with the Right Makeup" is a comprehensive guidebook designed to empower readers with the artistry of makeup application. From basic techniques to advanced tips, this eBook offers step-by-step tutorials and expert advice on achieving flawless makeup looks for every occasion. With emphasis on enhancing natural beauty and embracing individuality, it inspires confidence and creativity in the realm of cosmetics, making it a must-read for beauty enthusiasts of all levels.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-span-1 order-first md:order-last">
+                <img class="img ms-0 md:ms-16" src="img/mockup-kosmetik.png" alt="">
+            </div>
+        </div>
+        <div class="flex justify-center">
+            <img class="w-[100%] md:w-[90%]" src="img/produk3.png" alt="">
+        </div>
+    </div>
+
+    <div class="bg-5 container-lg p-5 md:p-16">
+        <div class="flex flex-row items-center text-center">
+            <img src="img/arrow-right.png" alt="" class="w-[40px] md:w-[4%]">
+            <h1 class="inter-regular font-2-5rem ms-5">
+                Souvenir
+            </h1>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular my-12">
+            <div class="col-span-1">
+                <img class="img" src="img/mockup-souvenir.png" alt="">
+            </div>
+            <div class="col-span-1 flex justify-center items-center">
+                <div class="grid grid-cols-1 gap-5">
+                    <div class="bg-rental py-12 px-5 text-white">
+                        <h1 class="inter-medium font-1-5rem mb-5">Landing Page</h1>
+                        <img src="img/souvenir-benefit.png" alt="">
+                    </div>
+                    <div class="bg-rental-2 py-12 px-5 text-black">
+                        <h1 class="inter-medium font-1-5rem mb-5">Souvenir</h1>
+                        <p class="inter-regular font-0-8rem text-justify">This book unlocks the secrets to launching a souvenir shop with unique products that stand out from the crowd and keep the sales ringing. Start your journey to souvenir success today! This easy-to-understand guide provides actionable steps to get you started right away. Don't wait – order your copy now!</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="flex justify-center">
+            <img class="w-[100%] md:w-[90%]" src="img/produk4.png" alt="">
+        </div>
+    </div>
+
+    <div class="bg-4 container-lg p-5 md:p-16">
+        <div class="flex flex-row items-center text-center">
+            <img src="img/arrow-right.png" alt="" class="w-[40px] md:w-[4%]">
+            <h1 class="inter-regular font-2-5rem ms-5">
+                Music Store
+            </h1>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular my-12">
+            <div class="col-span-1 flex justify-center items-center">
+                <div class="grid grid-cols-1 gap-5">
+                    <div class="bg-rental py-12 px-5 text-white">
+                        <h1 class="inter-medium font-1-5rem mb-5">Landing Page</h1>
+                        <img src="img/music-benefit.png" alt="">
+                    </div>
+                    <div class="bg-rental-2 py-5 px-5 text-black">
+                        <h1 class="inter-medium font-1-5rem mb-3">Music Store</h1>
+                        <p class="inter-regular font-1rem text-justify">Turn your love of music into a rocking business!
+                            This easy-to-follow guide spills the beans on opening and running a successful music store. Packed with hot tips and tricks, it'll have you strumming your way to success in no time.
+                            Whether you're a music lover or a business whiz, this book is your backstage pass to music store mastery!
+                            Order now and get ready to crank up the profits!
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-span-1 order-first md:order-last">
+                <img class="img ms-0 md:ms-16" src="img/mockup-musik.png" alt="">
+            </div>
+        </div>
+        <div class="flex justify-center">
+            <img class="w-[100%] md:w-[90%]" src="img/produk5.png" alt="">
+        </div>
+    </div>
+
+    <div class="bg-5 container-lg p-5 md:p-16">
+        <div class="flex flex-row items-center text-center">
+            <img src="img/arrow-right.png" alt="" class="w-[40px] md:w-[4%]">
+            <h1 class="inter-regular font-2-5rem ms-5">
+                Seamstress
+            </h1>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular my-12">
+            <div class="col-span-1">
+                <img class="img" src="img/mockup-seam.png" alt="">
+            </div>
+            <div class="col-span-1 flex justify-center items-center">
+                <div class="grid grid-cols-1 gap-5">
+                    <div class="bg-rental py-12 px-5 text-white">
+                        <h1 class="inter-medium font-1-5rem mb-5">Landing Page</h1>
+                        <img src="img/tailor-benefit.png" alt="">
+                    </div>
+                    <div class="bg-rental-2 py-8 px-5 text-black">
+                        <h1 class="inter-medium font-1-5rem mb-5">Seamstress</h1>
+                        <p class="inter-regular font-1rem">Passionate about textiles? Transform Fabric into Profitable Art!
+                            This book unlocks the secrets to turning everyday fabric into stunning, saleable art. Turn your love of sewing into a thriving business.
+                            Start creating and profiting today! Easy-to-follow instructions ensure immediate results. Don't wait – order your copy now!
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="flex justify-center">
+            <img class="w-[100%] md:w-[90%]" src="img/produk6.png" alt="">
+        </div>
+    </div>
+
+    <div class="bg-4 container-lg p-5 md:p-16">
+        <div class="flex flex-row items-center text-center">
+            <img src="img/arrow-right.png" alt="" class="w-[40px] md:w-[4%]">
+            <h1 class="inter-regular font-2-5rem ms-5">
+                Boutique Fashion
+            </h1>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular my-12">
+            <div class="col-span-1 flex justify-center items-center">
+                <div class="grid grid-cols-1 gap-5">
+                    <div class="bg-rental py-12 px-5 text-white">
+                        <h1 class="inter-medium font-1-5rem mb-5">Landing Page</h1>
+                        <img src="img/butik-benefit.png" alt="">
+                    </div>
+                    <div class="bg-rental-2 py-8 px-5 text-black">
+                        <h1 class="inter-medium font-1-5rem mb-5">Boutique Fashion</h1>
+                        <p class="inter-regular font-0-8rem text-justify">Runway to Reality: Bringing Boutique Style to Everyday Life" is a transformative eBook bridging the gap between high-fashion runway trends and practical, everyday fashion choices. Packed with insider tips, styling advice, and budget-friendly hacks, this guide empowers readers to curate their own signature style with confidence. From mastering the art of mixing and matching to incorporating statement pieces into everyday wardrobes, this book is a must-read for fashion enthusiasts seeking to elevate their daily attire effortlessly.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-span-1 order-first md:order-last">
+                <img class="img ms-0 md:ms-16" src="img/mockup-boutique.png" alt="">
+            </div>
+        </div>
+        <div class="flex justify-center">
+            <img class="w-[100%] md:w-[90%]" src="img/produk7.png" alt="">
+        </div>
+    </div>
+
+    <div class="bg-5 container-lg p-5 md:p-16">
+        <div class="flex flex-row items-center text-center">
+            <img src="img/arrow-right.png" alt="" class="w-[40px] md:w-[4%]">
+            <h1 class="inter-regular font-2-5rem ms-5">
+                Beauty Clinic
+            </h1>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular my-12">
+            <div class="col-span-1">
+                <img class="img" src="img/mockup-beauty.png" alt="">
+            </div>
+            <div class="col-span-1 flex justify-center items-center">
+                <div class="grid grid-cols-1 gap-5">
+                    <div class="bg-rental py-12 px-5 text-white">
+                        <h1 class="inter-medium font-1-5rem mb-5">Landing Page</h1>
+                        <img src="img/beauty-benefit.png" alt="">
+                    </div>
+                    <div class="bg-rental-2 py-8 px-5 text-black">
+                        <h1 class="inter-medium font-1-5rem mb-3">Beauty Clinic</h1>
+                        <p class="inter-regular font-0-8rem text-justify">"Unlocking Beauty: Exploring the Wonders of a Beauty Clinic" is an insightful eBook uncovering the secrets and innovations within the realm of beauty clinics. From skincare treatments to cosmetic procedures, this comprehensive guide offers valuable information on the latest techniques and technologies used to enhance beauty and rejuvenate appearance. With expert advice from professionals and real-life success stories, this book serves as a trusted resource for anyone curious about the transformative possibilities of modern beauty clinics.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="flex justify-center">
+            <img class="w-[100%] md:w-[90%]" src="img/produk8.png" alt="">
+        </div>
+    </div>
+
+    <div class="bg-4 container-lg p-5 md:p-16">
+        <div class="flex flex-row items-center text-center">
+            <img src="img/arrow-right.png" alt="" class="w-[40px] md:w-[4%]">
+            <h1 class="inter-regular font-2-5rem ms-5">
+                Photography Studio
+            </h1>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular my-12">
+            <div class="col-span-1 flex justify-center items-center">
+                <div class="grid grid-cols-1 gap-5">
+                    <div class="bg-rental py-12 px-5 text-white">
+                        <h1 class="inter-medium font-1-5rem mb-5">Landing Page</h1>
+                        <img src="img/photography-benefit.png" alt="">
+                    </div>
+                    <div class="bg-rental-2 py-5 px-5 text-black">
+                        <h1 class="inter-medium font-1-5rem mb-3">Photography Studio</h1>
+                        <p class="inter-regular font-0-8rem text-justify">"The e-book 'A Practical Guide for Beginners in Managing a Photography Studio' is a comprehensive guide designed specifically for individuals who want to start and manage their own photography studio. With practical steps, expert tips, and easy-to-understand guidance, the book it covers everything from planning a business to choosing equipment, organizing photo sessions, marketing, and financial management. With a focus on both the technical and business aspects, readers will gain a solid understanding of how to run a photography studio successfully, making it an invaluable resource invaluable for beginners in this industry."</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-span-1 order-first md:order-last">
+                <img class="img ms-0 md:ms-16" src="img/mockup-photography.png" alt="">
+            </div>
+        </div>
+        <div class="flex justify-center">
+            <img class="w-[100%] md:w-[90%]" src="img/produk9.png" alt="">
+        </div>
+    </div>
+
+    <div class="bg-5 container-lg p-5 md:p-16">
+        <div class="flex flex-row items-center text-center">
+            <img src="img/arrow-right.png" alt="" class="w-[40px] md:w-[4%]">
+            <h1 class="inter-regular font-2-5rem ms-5">
+                Furniture Store
+            </h1>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular my-12">
+            <div class="col-span-1">
+                <img class="img" src="img/mockup-furniture.png" alt="">
+            </div>
+            <div class="col-span-1 flex justify-center items-center">
+                <div class="grid grid-cols-1 gap-5">
+                    <div class="bg-rental py-12 px-5 text-white">
+                        <h1 class="inter-medium font-1-5rem mb-5">Landing Page</h1>
+                        <img src="img/furnitur-benefit.png" alt="">
+                    </div>
+                    <div class="bg-rental-2 py-8 px-5 text-black">
+                        <h1 class="inter-medium font-1-5rem mb-5">Furniture Store</h1>
+                        <p class="inter-regular font-0-8rem text-justify">"Decorating Secrets: Creating Dream Spaces with the Right Furniture" is a comprehensive eBook revealing insider tips and techniques for transforming living spaces into personalized havens of style and comfort. From selecting the perfect furniture pieces to arranging them strategically for maximum impact, this guide offers practical advice and creative inspiration. Whether you're a seasoned decorator or a novice designer, this book will empower you to unlock the secrets to achieving your dream home aesthetic effortlessly.</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="flex justify-center">
+            <img class="w-[100%] md:w-[90%]" src="img/produk10.png" alt="">
+        </div>
+    </div>
+
+    <div class="bg-4 container-lg p-5 md:p-16">
+        <div class="flex flex-row items-center text-center">
+            <img src="img/arrow-right.png" alt="" class="w-[40px] md:w-[4%]">
+            <h1 class="inter-regular font-2-5rem ms-5">
+                Fruit Store
+            </h1>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular my-12">
+            <div class="col-span-1 flex justify-center items-center">
+                <div class="grid grid-cols-1 gap-5">
+                    <div class="bg-rental py-12 px-5 text-white">
+                        <h1 class="inter-medium font-1-5rem mb-5">Landing Page</h1>
+                        <img src="img/fruit-benefit.png" alt="">
+                    </div>
+                    <div class="bg-rental-2 py-8 px-5 text-black">
+                        <h1 class="inter-medium font-1-5rem mb-5">Fruit Store</h1>
+                        <p class="inter-regular font-0-8rem text-justify">"Fruit Delights: Unveiling Unique and Amazing Facts" is an intriguing eBook that delves into the fascinating world of fruits. From exotic varieties to common favorites, this book uncovers surprising facts, nutritional benefits, and cultural significance associated with different fruits. With vibrant illustrations and engaging anecdotes, readers will embark on a journey of discovery, gaining a deeper appreciation for nature's bountiful offerings. Whether you're a fruit enthusiast or simply curious, this delightful read promises to enlighten and entertain.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-span-1 order-first md:order-last">
+                <img class="img ms-0 md:ms-16" src="img/mockup-fruit.png" alt="">
+            </div>
+        </div>
+        <div class="flex justify-center">
+            <img class="w-[100%] md:w-[90%]" src="img/produk11.png" alt="">
+        </div>
+    </div>
+
+    <div class="bg-5 container-lg p-5 md:p-16">
+        <div class="flex flex-row items-center text-center">
+            <img src="img/arrow-right.png" alt="" class="w-[40px] md:w-[4%]">
+            <h1 class="inter-regular font-2-5rem ms-5">
+                Food Truck
+            </h1>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular my-12">
+            <div class="col-span-1">
+                <img class="img" src="img/mockup-foodtruck.png" alt="">
+            </div>
+            <div class="col-span-1 flex justify-center items-center">
+                <div class="grid grid-cols-1 gap-5">
+                    <div class="bg-rental py-12 px-5 text-white">
+                        <h1 class="inter-medium font-1-5rem mb-5">Landing Page</h1>
+                        <img src="img/foodtruck-benefit.png" alt="">
+                    </div>
+                    <div class="bg-rental-2 py-12 px-5 text-black">
+                        <h1 class="inter-medium font-1-5rem mb-5">Food Truck</h1>
+                        <p class="inter-regular font-0-8rem text-justify">Craving food truck success with endless profits?"Unveiling the Food Truck Concept and Its Lucrative Business" is your guide!
+                            This book unlocks the secrets to launching a thriving food truck business with delicious menus and maximum return.
+                            Embark on your culinary adventure today! Easy-to-understand and filled with actionable steps, this book gets you rolling right away. Don't wait – order your copy now!
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="flex justify-center">
+            <img class="w-[100%] md:w-[90%]" src="img/produk12.png" alt="">
+        </div>
+    </div>
+
+
+    <div class="bg-4 container-lg p-5 md:p-16">
+        <div class="flex flex-row items-center text-center">
+            <img src="img/arrow-right.png" alt="" class="w-[40px] md:w-[4%]">
+            <h1 class="inter-regular font-2-5rem ms-5">
+                Vegetable Store
+            </h1>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular my-12">
+            <div class="col-span-1 flex justify-center items-center">
+                <div class="grid grid-cols-1 gap-5">
+                    <div class="bg-rental py-12 px-5 text-white">
+                        <h1 class="inter-medium font-1-5rem mb-5">Landing Page</h1>
+                        <img src="img/vegetable-benefit.png" alt="">
+                    </div>
+                    <div class="bg-rental-2 py-8 px-5 text-black">
+                        <h1 class="inter-medium font-1-5rem mb-3">Vegetable Store</h1>
+                        <p class="inter-regular font-0-8rem text-justify">"Fresh Door to Life: Vegetable" is an enlightening eBook that celebrates the wonders of vegetables and their vital role in promoting health and well-being. Through captivating narratives and insightful information, this book explores the nutritional benefits, culinary versatility, and cultural significance of various vegetables. With practical tips on growing, cooking, and incorporating vegetables into everyday meals, readers will be inspired to embrace a healthier lifestyle while discovering the vibrant flavors and colors of fresh produce.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-span-1 order-first md:order-last">
+                <img class="img ms-0 md:ms-16" src="img/mockup-vegetable.png" alt="">
+            </div>
+        </div>
+        <div class="flex justify-center">
+            <img class="w-[100%] md:w-[90%]" src="img/produk13.png" alt="">
+        </div>
+    </div>
+
+    <div class="bg-5 container-lg p-5 md:p-16">
+        <div class="flex flex-row items-center text-center">
+            <img src="img/arrow-right.png" alt="" class="w-[40px] md:w-[4%]">
+            <h1 class="inter-regular font-2-5rem ms-5">
+                Fitness / Gym
+            </h1>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular my-12">
+            <div class="col-span-1">
+                <img class="img" src="img/mockup-fitnes.png" alt="">
+            </div>
+            <div class="col-span-1 flex justify-center items-center">
+                <div class="grid grid-cols-1 gap-5">
+                    <div class="bg-rental py-12 px-5 text-white">
+                        <h1 class="inter-medium font-1-5rem mb-5">Landing Page</h1>
+                        <img src="img/fitness-benefit.png" alt="">
+                    </div>
+                    <div class="bg-rental-2 py-3 px-5 text-black">
+                        <h1 class="inter-medium font-1-5rem mb-3">Fitness</h1>
+                        <p class="inter-regular font-0-8rem text-justify">"The e-book 'The Complete Beginner's Guide to Fitness: Start Your Healthy Journey' is a comprehensive guide that guides readers, especially beginners, through practical steps to start a healthy fitness journey. With an emphasis on an approach that anyone can follow , this book provides information on effective physical exercise, proper nutrition strategies, as well as motivational tips to help readers achieve their fitness goals with confidence and consistency. From understanding the basic principles of fitness to creating a personal exercise program, 'The Complete Beginner's Guide to Fitness' is the perfect resource for anyone who wants to start their journey to a healthy lifestyle."</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="flex justify-center">
+            <img class="w-[100%] md:w-[90%]" src="img/produk14.png" alt="">
+        </div>
+    </div>
+
+    <div class="bg-4 container-lg p-5 md:p-16">
+        <div class="flex flex-row items-center text-center">
+            <img src="img/arrow-right.png" alt="" class="w-[40px] md:w-[4%]">
+            <h1 class="inter-regular font-2-5rem ms-5">
+                Book Store
+            </h1>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular my-12">
+            <div class="col-span-1 flex justify-center items-center">
+                <div class="grid grid-cols-1 gap-5">
+                    <div class="bg-rental py-12 px-5 text-white">
+                    <h1 class="inter-medium font-1-5rem mb-5">Landing Page</h1>
+                        <img src="img/book-benefit.png" alt="">
+                    </div>
+                    <div class="bg-rental-2 py-3 px-5 text-black">
+                        <h1 class="inter-medium font-1-5rem mb-3">Book Store</h1>
+                        <p class="inter-regular font-0-8rem text-justify">The e-book entitled 'The Secret to Successfully Managing a Bookstore in the Digital Era' is a comprehensive guide for bookstore owners and business managers who want to face the challenges of the digital era. By presenting innovative strategies for adapting bookstores to the latest technology trends, this book explores various aspects ranging from online marketing, inventory management, to building a community of readers through digital platforms. Written with in-depth knowledge and practical experience, this e-book is an invaluable source of inspiration for anyone who wants to be successful in managing a bookstore in the modern era.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-span-1 order-first md:order-last">
+                <img class="img ms-0 md:ms-16" src="img/mockup-book.png" alt="">
+            </div>
+        </div>
+        <div class="flex justify-center">
+            <img class="w-[100%] md:w-[90%]" src="img/produk15.png" alt="">
+        </div>
+    </div>
 
     <div class="container-lg bg-pink">
         <div class="flex flex-col items-center justify-center px-5">
