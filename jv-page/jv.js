@@ -1,6 +1,6 @@
 
 // Countdown
-const targetDate = new Date('2024-04-05T09:00:00-05:00').getTime();
+const targetDate = new Date('2024-04-10T09:00:00-05:00').getTime();
 
 const countdown = setInterval(function() {
   const now = new Date().getTime();
@@ -84,6 +84,25 @@ function myFunction(x) {
   x.classList.toggle("change");
   const navBurger = document.querySelector(".burger")
   navBurger.classList.toggle("show");
+}
+
+// Scroll
+const smoothScrollLinks = document.querySelectorAll('.smooth-scroll');
+
+smoothScrollLinks.forEach(link => {
+    link.addEventListener('click', smoothScroll);
+});
+
+function smoothScroll(event) {
+    event.preventDefault();
+
+    const targetId = this.getAttribute('href');
+
+    const targetElement = document.querySelector(targetId);
+
+    targetElement.scrollIntoView({
+        behavior: 'smooth'
+    });
 }
 
 
