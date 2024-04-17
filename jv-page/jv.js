@@ -26,25 +26,14 @@ const countdown = setInterval(function() {
 
   if (distance < 0) {
     clearInterval(countdown);
-    document.querySelector(".countdown").innerHTML = `
-    <div class="first-item count-item flex flex-col items-center justify-center bg-gradient-to-b from-white via-gray-200 to-gray-300">
-      <div class="days font-extrabold text-4xl">${daysString}</div>
-      <div class="font-bold">Days</div>
-    </div>
-    <div class="count-item flex flex-col items-center justify-center bg-gradient-to-b from-white via-gray-200 to-gray-300">
-      <div class="hours font-extrabold text-4xl">${hoursString}</div>
-      <div class="font-bold">Hours</div>
-    </div>
-    <div class="count-item flex flex-col items-center justify-center bg-gradient-to-b from-white via-gray-200 to-gray-300">
-      <div class="minutes font-extrabold text-4xl">${minutesString}</div>
-      <div class="font-bold">Minutes</div>
-    </div>
-    <div class="last-item count-item flex flex-col items-center justify-center bg-gradient-to-b from-white via-gray-200 to-gray-300">
-      <div class="seconds font-extrabold text-4xl">${secondsString}</div>
-      <div class="font-bold">Seconds</div>
-    </div>
-    `;
-    document.querySelector(".result-container").style.display = "flex";
+    document.querySelector(".countdown-container").style.display = "none";
+    document.querySelector(".get-it").innerHTML = 
+    `<div class="get-it flex justify-center items-center w-full -my-20 max-[992px]:scale-[0.9] max-[768px]:scale-[0.7] max-[480px]:scale-[0.5] max-[992px]:-mt-52 max-[480px]:-mt-76 max-[480px]:-mb-76">
+      <a class="flex justify-between items-center w-[292px] bg-[#352CE8] px-2 py-2 rounded-[50px] hover:scale-105 duration-200" href="../lead-magnet-sales-page/index.php">
+        <h3 class="text-white text-[2rem] pl-6">Get It NOW</h3>
+        <img width="20%" src="./img/arrow-get.png" alt="img">
+      </a>
+    </div>`;
   }
 }, 1000);
 
