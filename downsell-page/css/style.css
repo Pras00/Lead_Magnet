@@ -206,10 +206,35 @@
 }
 
 .bg-rental {
-    background-image: url(../img/bg-rental.png);
-    background-size: cover;
+    background-image: linear-gradient(to left, rgba(129, 122, 255, 1), rgba(255, 209, 255, 1));
+    border-radius: 1rem;
 }
 
 .bg-rental-2 {
-    background-image: url(../img/bg-rental-2.png);
+    background-image: linear-gradient(to left, rgba(255, 128, 255, 0.5), rgba(255, 192, 255, 1), rgba(255, 255, 255, 1));
+    border-radius: 1rem;
+}
+
+.image-toc {
+    position: relative;
+    width: 100%;
+    height: auto; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#toc {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2; 
+}
+
+#blob {
+    position: relative;
+    width: 70%; 
+    height: auto; 
+    z-index: 1;
 }

@@ -380,7 +380,7 @@
                             "The e-book 'Comprehensive Guide to Renting Outdoor Gear for Various Activities' is a complete guide for adventurers who want to explore nature by renting outdoor equipment. This book provides detailed information about the types of equipment needed for each activity, tips for choosing a trusted rental provider, and a practical guide to preparing yourself before leaving. This e-book is a trusted resource for anyone who wants to enjoy outdoor adventures without having to have all their own equipment."
                         </p>
                     </div>
-                    <div class="bg-rental py-12 px-5 text-white">
+                    <div class="bg-rental py-12 px-5 text-black">
                         <h1 class="inter-medium font-1-5rem mb-5">Landing Page</h1>
                         <img src="img/rental-benefit.png" alt="">
                     </div>
@@ -391,8 +391,12 @@
                 <img class="img ms-0 md:ms-16" src="img/mockup-rental.png" alt="">
             </div>
         </div>
-        <div class="flex justify-center mb-12">
-            <img class="w-[100%] md:w-[70%]" src="img/TOC OUTDOOR-min.png" alt="">
+
+        <div class="flex justify-center my-5">
+            <div class="image-toc">
+                <img id="toc" class="w-[100%] md:w-[70%]" src="img/TOC OUTDOOR-min.png" alt="">
+                <img id="blob" src="img/blob.png" alt="">
+            </div>
         </div>
         <div class="flex justify-center">
             <img class="w-[100%] md:w-[90%]" src="img/produk1.png" alt="">
@@ -418,15 +422,18 @@
                             "Electronic Paradise: Exploring the Newest World of Technology" is a comprehensive eBook delving into the forefront of technological innovation. Covering diverse topics from AI to blockchain, it offers insightful analyses and practical applications for both tech enthusiasts and novices alike. With engaging writing and up-to-date information, this book serves as an indispensable guide to navigating the ever-evolving landscape of modern technology.
                         </p>
                     </div>
-                    <div class="bg-rental py-12 px-5 text-white">
+                    <div class="bg-rental py-12 px-5 text-black">
                         <h1 class="inter-medium font-1-5rem mb-5">Landing Page</h1>
                         <img src="img/elektronik-benefit.png" alt="">
                     </div>
                 </div>
             </div>
         </div>
-        <div class="flex justify-center mb-12">
-            <img class="w-[100%] md:w-[70%]" src="img/TOC ELEKTRONIK STORE-min.png" alt="">
+        <div class="flex justify-center my-5">
+            <div class="image-toc">
+                <img id="toc" class="w-[100%] md:w-[70%]" src="img/TOC ELEKTRONIK STORE-min.png" alt="">
+                <img id="blob" src="img/blob2.png" alt="">
+            </div>
         </div>
         <div class="flex justify-center">
             <img class="w-[100%] md:w-[90%]" src="img/produk2.png" alt="">
@@ -449,7 +456,7 @@
                             "Beyond Beautiful: Enhance Your Look with the Right Makeup" is a comprehensive guidebook designed to empower readers with the artistry of makeup application. From basic techniques to advanced tips, this eBook offers step-by-step tutorials and expert advice on achieving flawless makeup looks for every occasion. With emphasis on enhancing natural beauty and embracing individuality, it inspires confidence and creativity in the realm of cosmetics, making it a must-read for beauty enthusiasts of all levels.
                         </p>
                     </div>
-                    <div class="bg-rental py-12 px-5 text-white">
+                    <div class="bg-rental py-12 px-5 text-black">
                         <h1 class="inter-medium font-1-5rem mb-5">Landing Page</h1>
                         <img src="img/kosmetik-benefit.png" alt="">
                     </div>
@@ -460,8 +467,12 @@
                 <img class="img ms-0 md:ms-16" src="img/mockup-kosmetik.png" alt="">
             </div>
         </div>
-        <div class="flex justify-center mb-12">
-            <img class="w-[100%] md:w-[70%]" src="img/TOC COSMETIC-min.png" alt="">
+
+        <div class="flex justify-center my-5">
+            <div class="image-toc">
+                <img id="toc" class="w-[100%] md:w-[70%]" src="img/TOC COSMETIC-min.png" alt="">
+                <img id="blob" src="img/blob.png" alt="">
+            </div>
         </div>
         <div class="flex justify-center">
             <img class="w-[100%] md:w-[90%]" src="img/produk3.png" alt="">
@@ -485,15 +496,18 @@
                         <h1 class="inter-medium font-1-5rem mb-5">Souvenir</h1>
                         <p class="inter-regular font-0-8rem text-justify">This book unlocks the secrets to launching a souvenir shop with unique products that stand out from the crowd and keep the sales ringing. Start your journey to souvenir success today! This easy-to-understand guide provides actionable steps to get you started right away. Don't wait – order your copy now!</p>
                     </div>
-                    <div class="bg-rental py-12 px-5 text-white">
+                    <div class="bg-rental py-12 px-5 text-black">
                         <h1 class="inter-medium font-1-5rem mb-5">Landing Page</h1>
                         <img src="img/souvenir-benefit.png" alt="">
                     </div>
                 </div>
             </div>
         </div>
-        <div class="flex justify-center mb-12">
-            <img class="w-[100%] md:w-[70%]" src="img/TOC SOUVENIR-min.png" alt="">
+        <div class="flex justify-center my-5">
+            <div class="image-toc">
+                <img id="toc" class="w-[100%] md:w-[70%]" src="img/TOC SOUVENIR-min.png" alt="">
+                <img id="blob" src="img/blob2.png" alt="">
+            </div>
         </div>
         <div class="flex justify-center">
             <img class="w-[100%] md:w-[90%]" src="img/produk4.png" alt="">
@@ -518,7 +532,7 @@
                             Order now and get ready to crank up the profits!
                         </p>
                     </div>
-                    <div class="bg-rental py-12 px-5 text-white">
+                    <div class="bg-rental py-12 px-5 text-black">
                         <h1 class="inter-medium font-1-5rem mb-5">Landing Page</h1>
                         <img src="img/music-benefit.png" alt="">
                     </div>
@@ -529,8 +543,11 @@
                 <img class="img ms-0 md:ms-16" src="img/mockup-musik.png" alt="">
             </div>
         </div>
-        <div class="flex justify-center mb-12">
-            <img class="w-[100%] md:w-[70%]" src="img/TOC MUSIC STORE-min.png" alt="">
+        <div class="flex justify-center my-5">
+            <div class="image-toc">
+                <img id="toc" class="w-[100%] md:w-[70%]" src="img/TOC MUSIC STORE-min.png" alt="">
+                <img id="blob" src="img/blob.png" alt="">
+            </div>
         </div>
         <div class="flex justify-center">
             <img class="w-[100%] md:w-[90%]" src="img/produk5.png" alt="">
@@ -557,15 +574,18 @@
                             Start creating and profiting today! Easy-to-follow instructions ensure immediate results. Don't wait – order your copy now!
                         </p>
                     </div>
-                    <div class="bg-rental py-12 px-5 text-white">
+                    <div class="bg-rental py-12 px-5 text-black">
                         <h1 class="inter-medium font-1-5rem mb-5">Landing Page</h1>
                         <img src="img/tailor-benefit.png" alt="">
                     </div>
                 </div>
             </div>
         </div>
-        <div class="flex justify-center mb-12">
-            <img class="w-[100%] md:w-[70%]" src="img/TOC TAILOR-min.png" alt="">
+        <div class="flex justify-center my-5">
+            <div class="image-toc">
+                <img id="toc" class="w-[100%] md:w-[70%]" src="img/TOC TAILOR-min.png" alt="">
+                <img id="blob" src="img/blob2.png" alt="">
+            </div>
         </div>
         <div class="flex justify-center">
             <img class="w-[100%] md:w-[90%]" src="img/produk6.png" alt="">
@@ -587,7 +607,7 @@
                         <p class="inter-regular font-0-8rem text-justify">Runway to Reality: Bringing Boutique Style to Everyday Life" is a transformative eBook bridging the gap between high-fashion runway trends and practical, everyday fashion choices. Packed with insider tips, styling advice, and budget-friendly hacks, this guide empowers readers to curate their own signature style with confidence. From mastering the art of mixing and matching to incorporating statement pieces into everyday wardrobes, this book is a must-read for fashion enthusiasts seeking to elevate their daily attire effortlessly.
                         </p>
                     </div>
-                    <div class="bg-rental py-12 px-5 text-white">
+                    <div class="bg-rental py-12 px-5 text-black">
                         <h1 class="inter-medium font-1-5rem mb-5">Landing Page</h1>
                         <img src="img/butik-benefit.png" alt="">
                     </div>
@@ -598,8 +618,11 @@
                 <img class="img ms-0 md:ms-16" src="img/mockup-boutique.png" alt="">
             </div>
         </div>
-        <div class="flex justify-center mb-12">
-            <img class="w-[100%] md:w-[70%]" src="img/TOC FASHION BOUTIQUE-min.png" alt="">
+        <div class="flex justify-center my-5">
+            <div class="image-toc">
+                <img id="toc" class="w-[100%] md:w-[70%]" src="img/TOC FASHION BOUTIQUE-min.png" alt="">
+                <img id="blob" src="img/blob.png" alt="">
+            </div>
         </div>
         <div class="flex justify-center">
             <img class="w-[100%] md:w-[90%]" src="img/produk7.png" alt="">
@@ -624,15 +647,18 @@
                         <p class="inter-regular font-0-8rem text-justify">"Unlocking Beauty: Exploring the Wonders of a Beauty Clinic" is an insightful eBook uncovering the secrets and innovations within the realm of beauty clinics. From skincare treatments to cosmetic procedures, this comprehensive guide offers valuable information on the latest techniques and technologies used to enhance beauty and rejuvenate appearance. With expert advice from professionals and real-life success stories, this book serves as a trusted resource for anyone curious about the transformative possibilities of modern beauty clinics.
                         </p>
                     </div>
-                    <div class="bg-rental py-12 px-5 text-white">
+                    <div class="bg-rental py-12 px-5 text-black">
                         <h1 class="inter-medium font-1-5rem mb-5">Landing Page</h1>
                         <img src="img/beauty-benefit.png" alt="">
                     </div>
                 </div>
             </div>
         </div>
-        <div class="flex justify-center mb-12">
-            <img class="w-[100%] md:w-[70%]" src="img/TOC BEAUTY CLINIC-min.png" alt="">
+        <div class="flex justify-center my-5">
+            <div class="image-toc">
+                <img id="toc" class="w-[100%] md:w-[70%]" src="img/TOC BEAUTY CLINIC-min.png" alt="">
+                <img id="blob" src="img/blob2.png" alt="">
+            </div>
         </div>
         <div class="flex justify-center">
             <img class="w-[100%] md:w-[90%]" src="img/produk8.png" alt="">
@@ -653,7 +679,7 @@
                         <h1 class="inter-medium font-1-5rem mb-3">Photography Studio</h1>
                         <p class="inter-regular font-0-8rem text-justify">"The e-book 'A Practical Guide for Beginners in Managing a Photography Studio' is a comprehensive guide designed specifically for individuals who want to start and manage their own photography studio. With practical steps, expert tips, and easy-to-understand guidance, the book it covers everything from planning a business to choosing equipment, organizing photo sessions, marketing, and financial management. With a focus on both the technical and business aspects, readers will gain a solid understanding of how to run a photography studio successfully, making it an invaluable resource invaluable for beginners in this industry."</p>
                     </div>
-                    <div class="bg-rental py-12 px-5 text-white">
+                    <div class="bg-rental py-12 px-5 text-black">
                         <h1 class="inter-medium font-1-5rem mb-5">Landing Page</h1>
                         <img src="img/photography-benefit.png" alt="">
                     </div>
@@ -664,8 +690,11 @@
                 <img class="img ms-0 md:ms-16" src="img/mockup-photography.png" alt="">
             </div>
         </div>
-        <div class="flex justify-center mb-12">
-            <img class="w-[100%] md:w-[70%]" src="img/TOC PHOTOSTUDIO-min.png" alt="">
+        <div class="flex justify-center my-5">
+            <div class="image-toc">
+                <img id="toc" class="w-[100%] md:w-[70%]" src="img/TOC PHOTOSTUDIO-min.png" alt="">
+                <img id="blob" src="img/blob.png" alt="">
+            </div>
         </div>
         <div class="flex justify-center">
             <img class="w-[100%] md:w-[90%]" src="img/produk9.png" alt="">
@@ -689,15 +718,18 @@
                         <h1 class="inter-medium font-1-5rem mb-3">Furniture Store</h1>
                         <p class="inter-regular font-0-8rem text-justify">"Decorating Secrets: Creating Dream Spaces with the Right Furniture" is a comprehensive eBook revealing insider tips and techniques for transforming living spaces into personalized havens of style and comfort. From selecting the perfect furniture pieces to arranging them strategically for maximum impact, this guide offers practical advice and creative inspiration. Whether you're a seasoned decorator or a novice designer, this book will empower you to unlock the secrets to achieving your dream home aesthetic effortlessly.</p>
                     </div>
-                    <div class="bg-rental py-12 px-5 text-white">
+                    <div class="bg-rental py-12 px-5 text-black">
                         <h1 class="inter-medium font-1-5rem mb-5">Landing Page</h1>
                         <img src="img/furnitur-benefit.png" alt="">
                     </div>
                 </div>
             </div>
         </div>
-        <div class="flex justify-center mb-12">
-            <img class="w-[100%] md:w-[70%]" src="img/TOC FURNITURE-min.png" alt="">
+        <div class="flex justify-center my-5">
+            <div class="image-toc">
+                <img id="toc" class="w-[100%] md:w-[70%]" src="img/TOC FURNITURE-min.png" alt="">
+                <img id="blob" src="img/blob2.png" alt="">
+            </div>
         </div>
         <div class="flex justify-center">
             <img class="w-[100%] md:w-[90%]" src="img/produk10.png" alt="">
@@ -718,7 +750,7 @@
                         <h1 class="inter-medium font-1-5rem mb-3">Fruit Store</h1>
                         <p class="inter-regular font-0-8rem text-justify">"Fruit Delights: Unveiling Unique and Amazing Facts" is an intriguing eBook that delves into the fascinating world of fruits. From exotic varieties to common favorites, this book uncovers surprising facts, nutritional benefits, and cultural significance associated with different fruits. With vibrant illustrations and engaging anecdotes, readers will embark on a journey of discovery, gaining a deeper appreciation for nature's bountiful offerings. Whether you're a fruit enthusiast or simply curious, this delightful read promises to enlighten and entertain.</p>
                     </div>
-                    <div class="bg-rental py-12 px-5 text-white">
+                    <div class="bg-rental py-12 px-5 text-black">
                         <h1 class="inter-medium font-1-5rem mb-5">Landing Page</h1>
                         <img src="img/fruit-benefit.png" alt="">
                     </div>
@@ -729,8 +761,11 @@
                 <img class="img ms-0 md:ms-16" src="img/mockup-fruit.png" alt="">
             </div>
         </div>
-        <div class="flex justify-center mb-12">
-            <img class="w-[100%] md:w-[70%]" src="img/TOC FRUIT-min.png" alt="">
+        <div class="flex justify-center my-5">
+            <div class="image-toc">
+                <img id="toc" class="w-[100%] md:w-[70%]" src="img/TOC FRUIT-min.png" alt="">
+                <img id="blob" src="img/blob.png" alt="">
+            </div>
         </div>
         <div class="flex justify-center">
             <img class="w-[100%] md:w-[90%]" src="img/produk11.png" alt="">
@@ -757,15 +792,19 @@
                             Embark on your culinary adventure today! Easy-to-understand and filled with actionable steps, this book gets you rolling right away. Don't wait – order your copy now!
                         </p>
                     </div>
-                    <div class="bg-rental py-12 px-5 text-white">
+                    <div class="bg-rental py-12 px-5 text-black">
                         <h1 class="inter-medium font-1-5rem mb-5">Landing Page</h1>
                         <img src="img/foodtruck-benefit.png" alt="">
                     </div>
                 </div>
             </div>
         </div>
-        <div class="flex justify-center mb-12">
-            <img class="w-[100%] md:w-[70%]" src="img/TOC FOODTRUCK-min.png" alt="">
+
+        <div class="flex justify-center my-5">
+            <div class="image-toc">
+                <img id="toc" class="w-[100%] md:w-[70%]" src="img/TOC FOODTRUCK-min.png" alt="">
+                <img id="blob" src="img/blob2.png" alt="">
+            </div>
         </div>
         <div class="flex justify-center">
             <img class="w-[100%] md:w-[90%]" src="img/produk12.png" alt="">
@@ -787,7 +826,7 @@
                         <h1 class="inter-medium font-1-5rem mb-3">Vegetable Store</h1>
                         <p class="inter-regular font-0-8rem text-justify">"Fresh Door to Life: Vegetable" is an enlightening eBook that celebrates the wonders of vegetables and their vital role in promoting health and well-being. Through captivating narratives and insightful information, this book explores the nutritional benefits, culinary versatility, and cultural significance of various vegetables. With practical tips on growing, cooking, and incorporating vegetables into everyday meals, readers will be inspired to embrace a healthier lifestyle while discovering the vibrant flavors and colors of fresh produce.</p>
                     </div>
-                    <div class="bg-rental py-12 px-5 text-white">
+                    <div class="bg-rental py-12 px-5 text-black">
                         <h1 class="inter-medium font-1-5rem mb-5">Landing Page</h1>
                         <img src="img/vegetable-benefit.png" alt="">
                     </div>
@@ -798,8 +837,11 @@
                 <img class="img ms-0 md:ms-16" src="img/mockup-vegetable.png" alt="">
             </div>
         </div>
-        <div class="flex justify-center mb-12">
-            <img class="w-[100%] md:w-[70%]" src="img/TOC VEGETABLE STORE-min.png" alt="">
+        <div class="flex justify-center my-5">
+            <div class="image-toc">
+                <img id="toc" class="w-[100%] md:w-[70%]" src="img/TOC VEGETABLE STORE-min.png" alt="">
+                <img id="blob" src="img/blob.png" alt="">
+            </div>
         </div>
         <div class="flex justify-center">
             <img class="w-[100%] md:w-[90%]" src="img/produk13.png" alt="">
@@ -823,15 +865,19 @@
                         <h1 class="inter-medium font-1-5rem mb-3">Fitness</h1>
                         <p class="inter-regular font-0-8rem text-justify">"The e-book 'The Complete Beginner's Guide to Fitness: Start Your Healthy Journey' is a comprehensive guide that guides readers, especially beginners, through practical steps to start a healthy fitness journey. With an emphasis on an approach that anyone can follow , this book provides information on effective physical exercise, proper nutrition strategies, as well as motivational tips to help readers achieve their fitness goals with confidence and consistency. From understanding the basic principles of fitness to creating a personal exercise program, 'The Complete Beginner's Guide to Fitness' is the perfect resource for anyone who wants to start their journey to a healthy lifestyle."</p>
                     </div>
-                    <div class="bg-rental py-12 px-5 text-white">
+                    <div class="bg-rental py-12 px-5 text-black">
                         <h1 class="inter-medium font-1-5rem mb-5">Landing Page</h1>
                         <img src="img/fitness-benefit.png" alt="">
                     </div>
                 </div>
             </div>
         </div>
-        <div class="flex justify-center mb-12">
-            <img class="w-[100%] md:w-[70%]" src="img/TOC FITNESS-min.png" alt="">
+
+        <div class="flex justify-center my-5">
+            <div class="image-toc">
+                <img id="toc" class="w-[100%] md:w-[70%]" src="img/TOC FITNESS-min.png" alt="">
+                <img id="blob" src="img/blob2.png" alt="">
+            </div>
         </div>
         <div class="flex justify-center">
             <img class="w-[100%] md:w-[90%]" src="img/produk14.png" alt="">
@@ -863,8 +909,12 @@
                 <img class="img ms-0 md:ms-16" src="img/mockup-book.png" alt="">
             </div>
         </div>
-        <div class="flex justify-center mb-12">
-            <img class="w-[100%] md:w-[70%]" src="img/TOC BOOKSTORE-min.png" alt="">
+
+        <div class="flex justify-center my-5">
+            <div class="image-toc">
+                <img id="toc" class="w-[100%] md:w-[70%]" src="img/TOC BOOKSTORE-min.png" alt="">
+                <img id="blob" src="img/blob.png" alt="">
+            </div>
         </div>
         <div class="flex justify-center">
             <img class="w-[100%] md:w-[90%]" src="img/produk15.png" alt="">

@@ -284,7 +284,7 @@
                 Food Catering
             </h1>
         </div>
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular my-12">
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular mT-12">
             <div class="col-span-1 flex justify-center items-center">
                 <div class="grid grid-cols-1 gap-5">
                     <div class="bg-rental-2 py-8 px-8 text-black">
@@ -304,9 +304,13 @@
                 <img class="img ms-0 md:ms-16" src="img/mockup-food.png" alt="">
             </div>
         </div>
-        <div class="flex justify-center mb-12">
-            <img class="w-[100%] md:w-[70%]" src="img/TOC FOOD CATERING-min.png" alt="">
+        <div class="flex justify-center my-5">
+            <div class="image-toc">
+                <img id="toc" class="w-[100%] md:w-[70%]" src="img/TOC FOOD CATERING-min.png" alt="">
+                <img id="blob" src="img/blob.png" alt="">
+            </div>
         </div>
+
         <div class="flex justify-center">
             <img class="w-[100%] md:w-[90%]" src="img/produk-1.png" alt="">
         </div>
@@ -319,7 +323,7 @@
                 Pet Shop
             </h1>
         </div>
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular my-12">
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular mt-12">
             <div class="col-span-1">
                 <img class="img" src="img/mockup-pet.png" alt="">
             </div>
@@ -331,15 +335,18 @@
                             "Secrets of Loving Pet Care: A Practical Guide for Pet Owners" is a comprehensive and easy-to-understand guide for pet owners to better care for and love their beloved pets. With practical tips and expert advice, this book delves into the secrets of caring for pets of all types, from dogs and cats to birds and reptiles. From choosing the right food to effective exercise, readers will be guided to build a strong, healthy relationship with their pets, ensuring their long-term happiness and well-being.
                         </p>
                     </div>
-                    <div class="bg-rental py-12 px-5 text-white">
+                    <div class="bg-rental py-12 px-5 text-black">
                         <h1 class="inter-medium font-1-5rem mb-5">Landing Page</h1>
                         <img src="img/pet-benefit.png" alt="">
                     </div>
                 </div>
             </div>
         </div>
-        <div class="flex justify-center mb-12">
-            <img class="w-[100%] md:w-[70%]" src="img/TOC PETSHOP-min.png" alt="">
+        <div class="flex justify-center my-5">
+            <div class="image-toc">
+                <img id="toc" class="w-[100%] md:w-[70%]" src="img/TOC PETSHOP-min.png" alt="">
+                <img id="blob" src="img/blob2.png" alt="">
+            </div>
         </div>
 
         <div class="flex justify-center">
@@ -354,7 +361,7 @@
                 Bakery
             </h1>
         </div>
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular my-12">
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 grid-rows-1 gap-5 inter-regular mt-12">
             <div class="col-span-1 flex justify-center items-center">
                 <div class="grid grid-cols-1 gap-5">
                     <div class="bg-rental-2 py-8 px-8 text-black">
@@ -364,7 +371,7 @@
                             Got a sweet tooth? This book's got you covered! Whip up over 100 yummy cakes and treats, No fancy chef skills required! The recipes are super simple and come with handy tips to make sure they turn out perfect every time.
                         </p>
                     </div>
-                    <div class="bg-rental py-12 px-5 text-white">
+                    <div class="bg-rental py-12 px-5 text-black">
                         <h1 class="inter-medium font-1-5rem mb-5">Landing Page</h1>
                         <img src="img/bakery-benefit.png" alt="">
                     </div>
@@ -375,8 +382,11 @@
                 <img class="img ms-0 md:ms-16" src="img/mockup-bakery.png" alt="">
             </div>
         </div>
-        <div class="flex justify-center mb-12">
-            <img class="w-[100%] md:w-[70%]" src="img/TOC BAKERY-min.png" alt="">
+        <div class="flex justify-center my-5">
+            <div class="image-toc">
+                <img id="toc" class="w-[100%] md:w-[70%]" src="img/TOC BAKERY-min.png" alt="">
+                <img id="blob" src="img/blob.png" alt="">
+            </div>
         </div>
         <div class="flex justify-center">
             <img class="w-[100%] md:w-[90%]" src="img/produk-3.png" alt="">
@@ -405,15 +415,18 @@
                             This book is perfect for beginners, salon owners, or anyone who loves hair!
                         </p>
                     </div>
-                    <div class="bg-rental py-12 px-5 text-white">
+                    <div class="bg-rental py-12 px-5 text-black">
                         <h1 class="inter-medium font-1-5rem mb-5">Landing Page</h1>
                         <img src="img/hair-benefit.png" alt="">
                     </div>
                 </div>
             </div>
         </div>
-        <div class="flex justify-center mb-12">
-            <img class="w-[100%] md:w-[70%]" src="img/TOC HAIR SALON-min.png" alt="">
+        <div class="flex justify-center my-5">
+            <div class="image-toc">
+                <img id="toc" class="w-[100%] md:w-[70%]" src="img/TOC HAIR SALON-min.png" alt="">
+                <img id="blob" src="img/blob2.png" alt="">
+            </div>
         </div>
         <div class="flex justify-center">
             <img class="w-[100%] md:w-[90%]" src="img/produk-4.png" alt="">
@@ -437,7 +450,7 @@
                             Perfect for beginners, entrepreneurs, and flower enthusiasts! This book is your ticket to becoming a floral mastermind. Order now and unlock bonus content!
                         </p>
                     </div>
-                    <div class="bg-rental py-12 px-5 text-white">
+                    <div class="bg-rental py-12 px-5 text-black">
                         <h1 class="inter-medium font-1-5rem mb-5">Landing Page</h1>
                         <img src="img/florist-benefit.png" alt="">
                     </div>
@@ -448,8 +461,11 @@
                 <img class="img ms-0 md:ms-16" src="img/mockup-florist.png" alt="">
             </div>
         </div>
-        <div class="flex justify-center mb-12">
-            <img class="w-[100%] md:w-[70%]" src="img/TOC FLORIST-min.png" alt="">
+        <div class="flex justify-center my-5">
+            <div class="image-toc">
+                <img id="toc" class="w-[100%] md:w-[70%]" src="img/TOC FLORIST-min.png" alt="">
+                <img id="blob" src="img/blob.png" alt="">
+            </div>
         </div>
         <div class="flex justify-center">
             <img class="w-[100%] md:w-[90%]" src="img/produk-5.png" alt="">
@@ -475,15 +491,19 @@
                             "The e-book 'A Guide to Opening Your Dream Coffee Shop' is a comprehensive guide that combines practical knowledge and in-depth insight into the coffee industry, from initial concept to launching and managing a successful coffee business. With an emphasis on creative marketing strategies, location selection precise, efficient stock management, as well as knowledge of the latest trends in the world of coffee, this book is an irreplaceable guide for entrepreneurs who dream of opening their dream coffee shop."
                         </p>
                     </div>
-                    <div class="bg-rental py-12 px-5 text-white">
+                    <div class="bg-rental py-12 px-5 text-black">
                         <h1 class="inter-medium font-1-5rem mb-5">Landing Page</h1>
                         <img src="img/coffe-benefit.png" alt="">
                     </div>
                 </div>
             </div>
         </div>
-        <div class="flex justify-center mb-12">
-            <img class="w-[100%] md:w-[70%]" src="img/TOC COFFE SHOP-min.png" alt="">
+    
+        <div class="flex justify-center my-5">
+            <div class="image-toc">
+                <img id="toc" class="w-[100%] md:w-[70%]" src="img/TOC COFFE SHOP-min.png" alt="">
+                <img id="blob" src="img/blob2.png" alt="">
+            </div>
         </div>
         <div class="flex justify-center">
             <img class="w-[100%] md:w-[90%]" src="img/produk-6.png" alt="">
@@ -506,7 +526,7 @@
                             "The E-book '”The Ultimate Guide to Running a Successful Barbershop'” is an E-book that discusses a comprehensive guide that offers in-depth insights and practical steps for building and managing a successful barbershop. With an emphasis on effective marketing strategies, staff management , finance, and customer service, this book is a trusted resource for barbershop owners or aspiring owners looking to maximize the potential of their business.Written in an easy-to-understand style and filled with tips and advice from industry experts, 'The Ultimate Guide to Running a Successful Barbershop' serves as an invaluable guide for anyone seeking to achieve excellence in the men's grooming industry."
                         </p>
                     </div>
-                    <div class="bg-rental py-12 px-5 text-white">
+                    <div class="bg-rental py-12 px-5 text-black">
                         <h1 class="inter-medium font-1-5rem mb-5">Landing Page</h1>
                         <img src="img/barber-benefit.png" alt="">
                     </div>
@@ -517,8 +537,11 @@
                 <img class="img ms-0 md:ms-16" src="img/mockup-barber.png" alt="">
             </div>
         </div>
-        <div class="flex justify-center mb-12">
-            <img class="w-[100%] md:w-[70%]" src="img/TOC PETSHOP-min.png" alt="">
+        <div class="flex justify-center my-5">
+            <div class="image-toc">
+                <img id="toc" class="w-[100%] md:w-[70%]" src="img/TOC PETSHOP-min.png" alt="">
+                <img id="blob" src="img/blob.png" alt="">
+            </div>
         </div>
         <div class="flex justify-center">
             <img class="w-[100%] md:w-[90%]" src="img/produk-7.png" alt="">
@@ -544,15 +567,19 @@
                             "Nail Artlicious" is your ultimate guide to stunning nail designs. Packed with step-by-step tutorials, expert tips, and inspiration, this e-book unveils the secrets behind beautiful and classy nails. From intricate patterns to elegant minimalism, whether you're a beginner or a seasoned enthusiast, discover how to elevate your nail art game and achieve flawless, fashionable nails that exude sophistication and charm.
                         </p>
                     </div>
-                    <div class="bg-rental py-12 px-5 text-white">
+                    <div class="bg-rental py-12 px-5 text-black">
                         <h1 class="inter-medium font-1-5rem mb-5">Landing Page</h1>
                         <img src="img/nail-benefit.png" alt="">
                     </div>
                 </div>
             </div>
         </div>
-        <div class="flex justify-center mb-12">
-            <img class="w-[100%] md:w-[70%]" src="img/TOC NAILS ART-min.png" alt="">
+ 
+        <div class="flex justify-center my-5">
+            <div class="image-toc">
+                <img id="toc" class="w-[100%] md:w-[70%]" src="img/TOC NAILS ART-min.png" alt="">
+                <img id="blob" src="img/blob2.png" alt="">
+            </div>
         </div>
         <div class="flex justify-center">
             <img class="w-[100%] md:w-[90%]" src="img/produk-8.png" alt="">
@@ -575,7 +602,7 @@
                             Dreaming of owning a toy store filled with joyful children's laughter? Building Your Toy Kingdom is the comprehensive guide to launching and running a thriving and profitable children's toy store. This e-book is your treasure map, guiding you through every step of opening and operating a successful toy business. Embark on your journey today!
                         </p>
                     </div>
-                    <div class="bg-rental py-12 px-5 text-white">
+                    <div class="bg-rental py-12 px-5 text-black">
                         <h1 class="inter-medium font-1-5rem mb-5">Landing Page</h1>
                         <img src="img/toy-benefit.png" alt="">
                     </div>
@@ -586,8 +613,11 @@
                 <img class="img ms-0 md:ms-16" src="img/mockup-toy.png" alt="">
             </div>
         </div>
-        <div class="flex justify-center mb-12">
-            <img class="w-[100%] md:w-[70%]" src="img/TOC TOY STORE-min.png" alt="">
+        <div class="flex justify-center my-5">
+            <div class="image-toc">
+                <img id="toc" class="w-[100%] md:w-[70%]" src="img/TOC TOY STORE-min.png" alt="">
+                <img id="blob" src="img/blob.png" alt="">
+            </div>
         </div>
         <div class="flex justify-center">
             <img class="w-[100%] md:w-[90%]" src="img/produk-9.png" alt="">
@@ -613,15 +643,18 @@
                             "The e-book "Arranging your office with the best equipment: practical solutions for work efficiency" is a comprehensive guide that guides readers through the process of designing and organizing an optimal work space. With an emphasis on work efficiency, this book presents practical solutions for selecting office equipment best, organize rooms effectively, and optimize daily productivity. From choosing ergonomic furniture to efficient room organization strategies, this guide combines expert knowledge with practical tips to help readers create a comfortable and efficient work environment."
                         </p>
                     </div>
-                    <div class="bg-rental py-12 px-5 text-white">
+                    <div class="bg-rental py-12 px-5 text-black">
                         <h1 class="inter-medium font-1-5rem mb-5">Landing Page</h1>
                         <img src="img/food-benefit.png" alt="">
                     </div>
                 </div>
             </div>
         </div>
-        <div class="flex justify-center mb-12">
-            <img class="w-[100%] md:w-[70%]" src="img/TOC OFC SHOP-min.png" alt="">
+        <div class="flex justify-center my-5">
+            <div class="image-toc">
+                <img id="toc" class="w-[100%] md:w-[70%]" src="img/TOC OFC SHOP-min.png" alt="">
+                <img id="blob" src="img/blob2.png" alt="">
+            </div>
         </div>
         <div class="flex justify-center">
             <img class="w-[100%] md:w-[90%]" src="img/produk-10.png" alt="">
