@@ -1,6 +1,6 @@
 
 // Countdown
-const targetDate = new Date('2024-04-10T09:00:00-05:00').getTime();
+const targetDate = new Date('2024-04-25T09:00:00-05:00').getTime();
 
 const countdown = setInterval(function() {
   const now = new Date().getTime();
@@ -77,11 +77,9 @@ function myFunction(x) {
 
 // Scroll
 const smoothScrollLinks = document.querySelectorAll('.smooth-scroll');
-
 smoothScrollLinks.forEach(link => {
     link.addEventListener('click', smoothScroll);
 });
-
 function smoothScroll(event) {
     event.preventDefault();
 
